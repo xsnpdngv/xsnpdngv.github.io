@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Tamás Dezső"
+description              : "Personal website."
+url                      : # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : xsnpdngv
 facebook:
   username               :
   app_id                 :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tamás Dezső"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Software Engineer | Intelligent Network Expert | Photographer"
+  location         : "Budapest"
+  email            : "dezso.t.tamas@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "xsnpdngv"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "tdezso"
   lastfm           :
-  linkedin         :
+  linkedin         : "t-dezso"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
