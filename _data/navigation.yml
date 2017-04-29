@@ -2,11 +2,38 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "ASDF"
-    url: /asdf/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  #
+
+# side bar
+docs:
+  - title: Development
+    children:
+      - title: "Flex & Bison"
+        url: /flex-bison/
+      - title: "Text Compilation"
+        url: /text-compilation/
+
+  - title: Photography
+    children:
+      - title: "Blow-Up"
+        url: /blow-up/
+      - title: "Block"
+        url: /block/
+      - title: "May Day"
+        url: /may-day/
+      - title: "Still Scenes"
+        url: /still-scenes/
+      - title: "Found Things"
+        url: /found-things/
+      - title: "Proved Presence"
+        url: /proved-presence/
+      - title: "Afterimage"
+        url: /afterimage/

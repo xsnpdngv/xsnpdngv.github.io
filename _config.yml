@@ -5,16 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme: "minimal-mistakes-jekyll"
 # Site Settings
 locale                   : "en"
-title                    : "xsnpdngv - access-enpee-deeann-geevee"
+title                    : "Tamás T. DEZSŐ"
 title_separator          : "-"
 name                     : "Tamás Dezső"
 description              : "Personal website."
-url                      : # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
+url                      : "https://xsnpdngv.github.io" # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "xsnpdngv/xsnpdngv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +80,7 @@ analytics:
 author:
   name             : "Tamás Dezső"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer | Intelligent Network Expert | Photographer"
+  bio              : "half engineer | half photographer"
   location         : "Budapest"
   email            : "dezso.t.tamas@gmail.com"
   uri              :
@@ -111,6 +112,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _portfolio
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -162,6 +165,13 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Sass/SCSS
@@ -230,7 +240,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -244,3 +253,25 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      share: true
+      sidebar:
+        nav: "docs"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
