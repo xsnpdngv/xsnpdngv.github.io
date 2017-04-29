@@ -27,7 +27,7 @@ feature_row:
     url: "/blow-up/"
     btn_label: "View"
 
-  - image_path: /assets/photos/features/may-day-c.jpg
+  - image_path: /assets/photos/features/mayday-c.jpg
     alt: "Singles"
     title: "Singles"
     excerpt: "qwer"
