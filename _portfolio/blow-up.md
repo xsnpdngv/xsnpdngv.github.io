@@ -3,14 +3,14 @@ permalink: /blow-up/
 title: "Blow-Up, 2009"
 excerpt: "Blow-Up"
 gallery:
-  - url: /assets/photos/blow-up/Blow-Up(body).jpg
-    image_path: /assets/photos/blow-up/Blow-Up(body).jpg
+  - url: /assets/photos/blow-up/01.jpg
+    image_path: /assets/photos/blow-up/01.jpg
     title: "The Body, 2008 | 100x56.2cm, giclée print"
-  - url: /assets/photos/blow-up/Blow-Up(gun).jpg
-    image_path: /assets/photos/blow-up/Blow-Up(gun).jpg
+  - url: /assets/photos/blow-up/02.jpg
+    image_path: /assets/photos/blow-up/02.jpg
     title: "The Gun, 2008 | 100x56.2cm, giclée print"
-  - url: /assets/photos/blow-up/Blow-Up(murderer).jpg
-    image_path: /assets/photos/blow-up/Blow-Up(murderer).jpg
+  - url: /assets/photos/blow-up/03.jpg
+    image_path: /assets/photos/blow-up/03.jpg
     title: "The Murderer, 2008 | 100x56.2cm, giclée print"
 ---
 

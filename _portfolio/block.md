@@ -3,50 +3,50 @@ permalink: /block/
 title: "Block, 2008"
 excerpt: "Block"
 gallery:
-  - url: /assets/photos/block/DTT_Block_01.jpg
-    image_path: /assets/photos/block/DTT_Block_01.jpg
+  - url: /assets/photos/block/01.jpg
+    image_path: /assets/photos/block/01.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_02.jpg
-    image_path: /assets/photos/block/DTT_Block_02.jpg
+  - url: /assets/photos/block/02.jpg
+    image_path: /assets/photos/block/02.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_03.jpg
-    image_path: /assets/photos/block/DTT_Block_03.jpg
+  - url: /assets/photos/block/03.jpg
+    image_path: /assets/photos/block/03.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_04.jpg
-    image_path: /assets/photos/block/DTT_Block_04.jpg
+  - url: /assets/photos/block/04.jpg
+    image_path: /assets/photos/block/04.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_05.jpg
-    image_path: /assets/photos/block/DTT_Block_05.jpg
+  - url: /assets/photos/block/05.jpg
+    image_path: /assets/photos/block/05.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_06.jpg
-    image_path: /assets/photos/block/DTT_Block_06.jpg
+  - url: /assets/photos/block/06.jpg
+    image_path: /assets/photos/block/06.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_07.jpg
-    image_path: /assets/photos/block/DTT_Block_07.jpg
+  - url: /assets/photos/block/07.jpg
+    image_path: /assets/photos/block/07.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_08.jpg
-    image_path: /assets/photos/block/DTT_Block_08.jpg
+  - url: /assets/photos/block/08.jpg
+    image_path: /assets/photos/block/08.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_09.jpg
-    image_path: /assets/photos/block/DTT_Block_09.jpg
+  - url: /assets/photos/block/09.jpg
+    image_path: /assets/photos/block/09.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_10.jpg
-    image_path: /assets/photos/block/DTT_Block_10.jpg
+  - url: /assets/photos/block/10.jpg
+    image_path: /assets/photos/block/10.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_11.jpg
-    image_path: /assets/photos/block/DTT_Block_11.jpg
+  - url: /assets/photos/block/11.jpg
+    image_path: /assets/photos/block/11.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_12.jpg
-    image_path: /assets/photos/block/DTT_Block_12.jpg
+  - url: /assets/photos/block/12.jpg
+    image_path: /assets/photos/block/12.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_13.jpg
-    image_path: /assets/photos/block/DTT_Block_13.jpg
+  - url: /assets/photos/block/13.jpg
+    image_path: /assets/photos/block/13.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_14.jpg
-    image_path: /assets/photos/block/DTT_Block_14.jpg
+  - url: /assets/photos/block/14.jpg
+    image_path: /assets/photos/block/14.jpg
     title: "Block, 2008"
-  - url: /assets/photos/block/DTT_Block_15.jpg
-    image_path: /assets/photos/block/DTT_Block_15.jpg
+  - url: /assets/photos/block/15.jpg
+    image_path: /assets/photos/block/15.jpg
     title: "Block, 2008"
 ---
 
