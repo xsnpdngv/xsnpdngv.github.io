@@ -5,6 +5,7 @@ permalink: /
 
 header:
   overlay_color: "#5e616c"
+  #overlay_image: /assets/photos/features/head.jpg
   overlay_image: /assets/images/mm-home-page-feature.jpg
   #cta_label: "<i class='fa fa-download'></i> Install Now"
   #cta_url: "/docs/quick-start-guide/"
