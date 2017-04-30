@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  - title: "Photography"
+    url: /blow-up/
+  - title: "Development"
+    url: /devel/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -13,7 +13,7 @@ main:
   #
 
 # side bar
-docs:
+devel:
   - title: Development
     children:
       - title: "Flex & Bison"
@@ -21,6 +21,7 @@ docs:
       - title: "Text Compilation"
         url: /text-compilation/
 
+photo:
   - title: Photography
     children:
       - title: "Blow-Up"

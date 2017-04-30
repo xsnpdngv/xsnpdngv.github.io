@@ -8,10 +8,10 @@
 theme: "minimal-mistakes-jekyll"
 # Site Settings
 locale                   : "en"
-title                    : "Tamás T. DEZSŐ"
+title                    : "Tamás DEZSŐ"
 title_separator          : "-"
 name                     : "Tamás Dezső"
-description              : "Personal website."
+description              : "Personal website"
 url                      : "https://xsnpdngv.github.io" # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xsnpdngv/xsnpdngv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tamás Dezső"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "half engineer | half photographer"
-  location         : "Budapest"
+  name             :
+  avatar           : "/assets/photos/dtt.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "engineer ▪ photographer"
+  location         :
   email            : "dezso.t.tamas@gmail.com"
   uri              :
   bitbucket        :
@@ -259,19 +259,17 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: true
+      share: true
+      sidebar:
+        nav: "devel"
   # _portfolio
   - scope:
       path: "_portfolio"
       type: portfolio
     values:
       layout: single
+      author_profile: true
       share: true
       sidebar:
-        nav: "docs"
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
+        nav: "photo"
