@@ -1,6 +1,6 @@
 ---
 permalink: /may-day/
-title: "May Day, 2005-2010"
+title: "May Day, 2005-2007"
 excerpt: "May Day"
 gallery:
   - url: /assets/photos/may-day/01.jpg
@@ -45,3 +45,7 @@ gallery:
 ---
 
 {% include gallery caption="May Day \| Budapest, 2005-2010" %}
+
+## Exhibitions
+
+- 2007  May Day - Solo Exhibition, Budapest Cultural Center (H)

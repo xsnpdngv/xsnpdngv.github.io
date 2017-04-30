@@ -51,3 +51,30 @@ gallery:
 ---
 
 {% include gallery caption="Block \| Budapest, 2008" %}
+
+Blocks of flats (blocks) are high-rise apartment buildings made of
+prefabricated reinforced concrete elements. In Hungary, approximately 788.000
+such flats were built to reduce postwar housing shortage and to slash costs by
+employing uniform design. These flats still house over two million people,
+one-fifth of the country's population. In most blocks, there are more than a
+hundred flats with the same design, size and layout. Only the residents and
+their home interiors make the difference between them - but from the outside,
+these blocks all look the same. Standing in one's window and paying a lot of
+attention to the block in front, the diversity and individuality of the
+residents can slowly be portrayed even without seeing their faces.
+{: .text-justify}
+
+## Awards
+
+- 2009  XXVII. Hungarian Press Photo Contest, André Kertész Grand Prize for the
+        best antropocentric documentary photographic series
+- 2008  Lumix Digital Photo Contest, special prize
+
+## Exhibitions
+
+- 2010  Photo Espana / OpenPHoto, Cultural Universidad Abierta UCLM., Cuenca (E)
+- 2010  Modernización, Festival Europes, Nau Ivanov, Barcelona (E)
+- 2009  XVII. Hungarian Press Photo Exhibition, Hungarian National Museum, Budapest (H)
+- 2009  Einen Schritt weiter, Galerie Treppenhaus, Erlangen (D)
+- 2008  A Step Beyond, FFS exhibition, Month of Photography, VAM Design Center, Budapest (H)
+- 2009  Refresh / Living Space, FFS Exhibition, ArtBázis, Budapest (H)

@@ -5,28 +5,49 @@ excerpt: "Found Things"
 gallery:
   - url: /assets/photos/found-things/01.jpg
     image_path: /assets/photos/found-things/01.jpg
-    title: "Found Things, 2006"
+    title: "Szolnok, 2006"
+
   - url: /assets/photos/found-things/02.jpg
     image_path: /assets/photos/found-things/02.jpg
-    title: "Found Things, 2006"
+    title: "Budapest, 2006"
+
   - url: /assets/photos/found-things/03.jpg
     image_path: /assets/photos/found-things/03.jpg
-    title: "Found Things, 2006"
+    title: "Budapest, 2006"
+
   - url: /assets/photos/found-things/04.jpg
     image_path: /assets/photos/found-things/04.jpg
-    title: "Found Things, 2006"
+    title: "Szolnok, 2006"
+
   - url: /assets/photos/found-things/05.jpg
     image_path: /assets/photos/found-things/05.jpg
-    title: "Found Things, 2006"
+    title: "Cegléd, 2006"
+
   - url: /assets/photos/found-things/06.jpg
     image_path: /assets/photos/found-things/06.jpg
-    title: "Found Things, 2006"
+    title: "Budapest, 2006"
+
   - url: /assets/photos/found-things/07.jpg
     image_path: /assets/photos/found-things/07.jpg
-    title: "Found Things, 2006"
+    title: "Budapest, 2006"
+
   - url: /assets/photos/found-things/08.jpg
     image_path: /assets/photos/found-things/08.jpg
-    title: "Found Things, 2006"
+    title: "Budapest, 2006"
 ---
 
 {% include gallery caption="Found Things \| 2006" %}
+
+Lost things and abandoned objects on public places can be
+interesting not only from the point of view of who and why does not
+need or miss them. This series approaches found things from
+the question of visual interference and harmony with the original
+environment where they were found, how they fade into or stand
+out from those.
+{: .text-justify}
+
+## Exhibitions
+
+- 2008  Refresh / Still Life, FFS exhibition, ArtBázis, Budapest (H)
+- 2007  Question of Viewpoint, Exhibition of OKM's grant holders, MetroGallery, Budapest (H)
+- 2007  Solo Exhibition, Budapest Cultural Center (H)
