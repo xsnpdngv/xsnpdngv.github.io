@@ -17,11 +17,13 @@
   {% endif %}
 
   <div class="author__content">
-    <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% if author.bio %}
+      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
       <p class="author__bio" itemprop="description">
         {{ author.bio }}
       </p>
+    {% else %}
+      <p><h3 class="author__name" itemprop="name">{{ author.name }}</h3></p>
     {% endif %}
   </div>
 
