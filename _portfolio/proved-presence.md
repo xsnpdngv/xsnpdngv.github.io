@@ -4,35 +4,35 @@ title: "Proved Presence, 2005"
 excerpt: "Proved Presence"
 gallery:
   - url: /assets/photos/proved-presence/01.jpg
-    image_path: /assets/photos/proved-presence/01.jpg
+    image_path: /assets/photos/proved-presence/th/01.jpg
     title: "Heroes' Square, Budapest, 2005"
 
   - url: /assets/photos/proved-presence/02.jpg
-    image_path: /assets/photos/proved-presence/02.jpg
+    image_path: /assets/photos/proved-presence/th/02.jpg
     title: "Heroes' Square, Budapest, 2005"
 
   - url: /assets/photos/proved-presence/03.jpg
-    image_path: /assets/photos/proved-presence/03.jpg
+    image_path: /assets/photos/proved-presence/th/03.jpg
     title: "Parliament, Budapest, 2005"
 
   - url: /assets/photos/proved-presence/04.jpg
-    image_path: /assets/photos/proved-presence/04.jpg
+    image_path: /assets/photos/proved-presence/th/04.jpg
     title: "Eastern Railway Station, Budapest, 2005"
 
   - url: /assets/photos/proved-presence/05.jpg
-    image_path: /assets/photos/proved-presence/05.jpg
+    image_path: /assets/photos/proved-presence/th/05.jpg
     title: "Basilica, Esztergom, 2005"
 
   - url: /assets/photos/proved-presence/06.jpg
-    image_path: /assets/photos/proved-presence/06.jpg
+    image_path: /assets/photos/proved-presence/th/06.jpg
     title: "Dome Square, Szeged, 2005"
 
   - url: /assets/photos/proved-presence/07.jpg
-    image_path: /assets/photos/proved-presence/07.jpg
+    image_path: /assets/photos/proved-presence/th/07.jpg
     title: "Marie Valerie Bridge, Esztergom, 2005"
 
   - url: /assets/photos/proved-presence/08.jpg
-    image_path: /assets/photos/proved-presence/08.jpg
+    image_path: /assets/photos/proved-presence/th/08.jpg
     title: "Jami of pasha Hassan Jakovali, Pécs, 2005"
 ---
 
