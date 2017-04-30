@@ -1,6 +1,6 @@
 ---
 permalink: /blow-up/
-title: "Blow-Up, 2009"
+title: "Blow-Up"
 excerpt: "Blow-Up"
 gallery:
   - url: /assets/photos/blow-up/01.jpg

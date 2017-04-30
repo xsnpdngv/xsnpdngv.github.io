@@ -26,8 +26,8 @@ photo:
     children:
       - title: "Film Stills"
         url: /film-stills/
-#      - title: "No Title"
-#        url: /no-title/
+      - title: "No Title"
+        url: /no-title/
       - title: "Blow-Up"
         url: /blow-up/
       - title: "Block"

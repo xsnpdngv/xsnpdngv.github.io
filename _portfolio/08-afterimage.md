@@ -1,6 +1,6 @@
 ---
 permalink: /afterimage/
-title: "Afterimage, 2005"
+title: "Afterimage"
 excerpt: "Afterimage"
 gallery:
   - url: /assets/photos/afterimage/01.jpg

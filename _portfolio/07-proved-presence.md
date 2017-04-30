@@ -1,6 +1,6 @@
 ---
 permalink: /proved-presence/
-title: "Proved Presence, 2005"
+title: "Proved Presence"
 excerpt: "Proved Presence"
 gallery:
   - url: /assets/photos/proved-presence/01.jpg

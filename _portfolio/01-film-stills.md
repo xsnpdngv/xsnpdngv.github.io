@@ -1,6 +1,6 @@
 ---
 permalink: /film-stills/
-title: "Film Stills, 2015"
+title: "Film Stills"
 excerpt: "Film Stills"
 gallery:
   - url: /assets/photos/film-stills/01.jpg

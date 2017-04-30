@@ -1,6 +1,6 @@
 ---
 permalink: /no-title/
-title: "No Title, 2015-7"
+title: "No Title"
 excerpt: "No Title"
 gallery:
   - url: /assets/photos/no-title/01.jpg

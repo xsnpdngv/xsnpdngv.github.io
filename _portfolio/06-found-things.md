@@ -1,6 +1,6 @@
 ---
 permalink: /found-things/
-title: "Found Things, 2006"
+title: "Found Things"
 excerpt: "Found Things"
 gallery:
   - url: /assets/photos/found-things/01.jpg

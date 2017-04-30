@@ -8,9 +8,9 @@
 #theme: "minimal-mistakes-jekyll"
 # Site Settings
 locale                   : "en"
-title                    : "Tamás DEZSŐ"
+title                    : "Tamás T. DEZSŐ"
 title_separator          : "-"
-name                     : "Tamás Dezső"
+name                     : "Tamás T. DEZSŐ"
 description              : "Personal website"
 url                      : "https://xsnpdngv.github.io" # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -36,7 +36,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             :
   avatar           : "/assets/photos/dtt.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "engineer ▪ photographer"
+  bio              :
   location         :
   email            : "dezso.t.tamas@gmail.com"
   uri              :

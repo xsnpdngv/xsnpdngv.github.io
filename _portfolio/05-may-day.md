@@ -1,6 +1,6 @@
 ---
 permalink: /may-day/
-title: "May Day, 2005-2007"
+title: "May Day"
 excerpt: "May Day"
 gallery:
   - url: /assets/photos/may-day/01.jpg

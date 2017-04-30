@@ -1,6 +1,6 @@
 ---
 permalink: /block/
-title: "Block, 2008"
+title: "Block"
 excerpt: "Block"
 gallery:
   - url: /assets/photos/block/01.jpg
