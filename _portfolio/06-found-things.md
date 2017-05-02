@@ -4,35 +4,35 @@ title: "Found Things"
 excerpt: "Found Things"
 gallery:
   - url: /assets/photos/found-things/01.jpg
-    image_path: /assets/photos/found-things/th/01.jpg
+    image_path: /assets/photos/found-things/01.jpg
     title: "Szolnok, 2006"
 
   - url: /assets/photos/found-things/02.jpg
-    image_path: /assets/photos/found-things/th/02.jpg
+    image_path: /assets/photos/found-things/02.jpg
     title: "Budapest, 2006"
 
   - url: /assets/photos/found-things/03.jpg
-    image_path: /assets/photos/found-things/th/03.jpg
+    image_path: /assets/photos/found-things/03.jpg
     title: "Budapest, 2006"
 
   - url: /assets/photos/found-things/04.jpg
-    image_path: /assets/photos/found-things/th/04.jpg
+    image_path: /assets/photos/found-things/04.jpg
     title: "Szolnok, 2006"
 
   - url: /assets/photos/found-things/05.jpg
-    image_path: /assets/photos/found-things/th/05.jpg
+    image_path: /assets/photos/found-things/05.jpg
     title: "Cegléd, 2006"
 
   - url: /assets/photos/found-things/06.jpg
-    image_path: /assets/photos/found-things/th/06.jpg
+    image_path: /assets/photos/found-things/06.jpg
     title: "Budapest, 2006"
 
   - url: /assets/photos/found-things/07.jpg
-    image_path: /assets/photos/found-things/th/07.jpg
+    image_path: /assets/photos/found-things/07.jpg
     title: "Budapest, 2006"
 
   - url: /assets/photos/found-things/08.jpg
-    image_path: /assets/photos/found-things/th/08.jpg
+    image_path: /assets/photos/found-things/08.jpg
     title: "Budapest, 2006"
 ---
 
