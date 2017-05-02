@@ -91,4 +91,4 @@ residents can slowly be portrayed even without seeing their faces.
 - 2009  XVII. Hungarian Press Photo Exhibition, Hungarian National Museum, Budapest (H)
 - 2009  Einen Schritt weiter, Galerie Treppenhaus, Erlangen (D)
 - 2008  A Step Beyond, FFS exhibition, Month of Photography, VAM Design Center, Budapest (H)
-- 2009  Refresh / Living Space, FFS Exhibition, ArtBázis, Budapest (H)
+- 2008  Refresh / Living Space, FFS Exhibition, ArtBázis, Budapest (H)
