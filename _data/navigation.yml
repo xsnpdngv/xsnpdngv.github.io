@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Photography"
-    url: /film-stills/
+    url: /photo/
   - title: "Development"
     url: /devel/
   # - title: "Sample Posts"
@@ -23,11 +23,12 @@ devel:
 
 photo:
   - title: Photography
+    url: /photo/
     children:
-      - title: "Film Stills"
-        url: /film-stills/
       - title: "No Title"
         url: /no-title/
+      - title: "Film Stills"
+        url: /film-stills/
       - title: "Blow-Up"
         url: /blow-up/
       - title: "Block"

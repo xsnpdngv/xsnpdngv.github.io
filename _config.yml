@@ -15,7 +15,7 @@ description              : "Personal website"
 url                      : "https://xsnpdngv.github.io" # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xsnpdngv/xsnpdngv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -112,6 +112,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _photo-pages
   - _posts
   - _portfolio
 exclude:
@@ -242,6 +243,7 @@ compress_html:
 
 # Defaults
 defaults:
+
   # _posts
   - scope:
       path: ""
@@ -253,6 +255,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -263,6 +266,18 @@ defaults:
       share: true
       sidebar:
         nav: "devel"
+
+  # _photo-pages
+  - scope:
+      path: "_photo-pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      sidebar:
+        nav: "photo"
+
   # _portfolio
   - scope:
       path: "_portfolio"
