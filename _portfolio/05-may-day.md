@@ -1,7 +1,19 @@
 ---
 permalink: /may-day/
+
 title: "May Day"
-excerpt: "May Day"
+header:
+  teaser: /assets/photos/may-day/04.jpg
+#excerpt: "Some year's Labor Day Celebration, 1st of May"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - analogue
+  - b&w
+  - documentary
+
 gallery:
   - url: /assets/photos/may-day/01.jpg
     image_path: /assets/photos/may-day/01.jpg

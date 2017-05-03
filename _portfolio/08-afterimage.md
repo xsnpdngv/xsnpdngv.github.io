@@ -1,7 +1,19 @@
 ---
 permalink: /afterimage/
+
 title: "Afterimage"
-excerpt: "Afterimage"
+header:
+  teaser: /assets/photos/afterimage/01.jpg
+#excerpt: "The view after..."
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - analogue
+  - b&w
+  - staged
+
 gallery:
   - url: /assets/photos/afterimage/01.jpg
     image_path: /assets/photos/afterimage/01.jpg

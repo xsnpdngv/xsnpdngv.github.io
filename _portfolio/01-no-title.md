@@ -1,7 +1,19 @@
 ---
 permalink: /no-title/
+
 title: "No Title"
-excerpt: "No Title"
+header:
+  teaser: /assets/photos/no-title/07.jpg
+#excerpt: "Mobile captures mostly on weather"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - digital
+  - b&w
+  - mobile
+
 gallery:
   - url: /assets/photos/no-title/01.jpg
     image_path: /assets/photos/no-title/01.jpg

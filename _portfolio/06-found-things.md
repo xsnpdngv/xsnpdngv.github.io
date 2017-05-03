@@ -1,7 +1,19 @@
 ---
 permalink: /found-things/
+
 title: "Found Things"
-excerpt: "Found Things"
+header:
+  teaser: /assets/photos/found-things/07.jpg
+#excerpt: "Lost things and abandoned objects in their original surroundings"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - analogue
+  - b&w
+  - documentary
+
 gallery:
   - url: /assets/photos/found-things/01.jpg
     image_path: /assets/photos/found-things/01.jpg

@@ -1,7 +1,19 @@
 ---
 permalink: /proved-presence/
+
 title: "Proved Presence"
-excerpt: "Proved Presence"
+header:
+  teaser: /assets/photos/proved-presence/03.jpg
+#excerpt: "Evidences of not just beeing there but seeing such coexistences"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - analogue
+  - b&w
+  - experimental
+
 gallery:
   - url: /assets/photos/proved-presence/01.jpg
     image_path: /assets/photos/proved-presence/01.jpg

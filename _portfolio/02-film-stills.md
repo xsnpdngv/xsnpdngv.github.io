@@ -1,7 +1,19 @@
 ---
 permalink: /film-stills/
+
 title: "Film Stills"
-excerpt: "Film Stills"
+header:
+  teaser: /assets/photos/film-stills/teaser.jpg
+#excerpt: "Shattered portraits of protagonists from well known movies"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - digital
+  - color
+  - experimental
+
 gallery:
   - url: /assets/photos/film-stills/01.jpg
     image_path: /assets/photos/film-stills/01.jpg

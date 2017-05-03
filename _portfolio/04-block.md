@@ -1,7 +1,19 @@
 ---
 permalink: /block/
+
 title: "Block"
-excerpt: "Block"
+header:
+  teaser: /assets/photos/block/teaser.jpg
+#excerpt: "Window frames of flats captured portaying some diversity"
+excerpt: ""
+
+categories:
+  - photo
+tags:
+  - digital
+  - color
+  - documentary
+
 gallery:
   - url: /assets/photos/block/01.jpg
     image_path: /assets/photos/block/01.jpg
