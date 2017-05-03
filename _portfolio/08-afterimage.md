@@ -4,8 +4,7 @@ permalink: /afterimage/
 title: "Afterimage"
 header:
   teaser: /assets/photos/afterimage/01.jpg
-#excerpt: "The view after..."
-excerpt: ""
+excerpt: "A view after the one becoming absent"
 
 categories:
   - photo

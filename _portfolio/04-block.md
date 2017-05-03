@@ -4,8 +4,7 @@ permalink: /block/
 title: "Block"
 header:
   teaser: /assets/photos/block/teaser.jpg
-#excerpt: "Window frames of flats captured portaying some diversity"
-excerpt: ""
+excerpt: "Window frames of flats portaying some diversity"
 
 categories:
   - photo

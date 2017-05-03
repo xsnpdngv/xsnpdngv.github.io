@@ -4,8 +4,7 @@ permalink: /proved-presence/
 title: "Proved Presence"
 header:
   teaser: /assets/photos/proved-presence/03.jpg
-#excerpt: "Evidences of not just beeing there but seeing such coexistences"
-excerpt: ""
+excerpt: "Evidences of witnessing odd coexistences"
 
 categories:
   - photo

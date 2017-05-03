@@ -4,8 +4,7 @@ permalink: /film-stills/
 title: "Film Stills"
 header:
   teaser: /assets/photos/film-stills/teaser.jpg
-#excerpt: "Shattered portraits of protagonists from well known movies"
-excerpt: ""
+excerpt: "Shattered protagonist portraits from known movies"
 
 categories:
   - photo

@@ -4,8 +4,7 @@ permalink: /found-things/
 title: "Found Things"
 header:
   teaser: /assets/photos/found-things/07.jpg
-#excerpt: "Lost things and abandoned objects in their original surroundings"
-excerpt: ""
+excerpt: "Abandoned objects in their original surroundings"
 
 categories:
   - photo

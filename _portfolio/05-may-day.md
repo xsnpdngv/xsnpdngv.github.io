@@ -4,8 +4,7 @@ permalink: /may-day/
 title: "May Day"
 header:
   teaser: /assets/photos/may-day/04.jpg
-#excerpt: "Some year's Labor Day Celebration, 1st of May"
-excerpt: ""
+excerpt: "Labor Day Celebration, 1st of May"
 
 categories:
   - photo

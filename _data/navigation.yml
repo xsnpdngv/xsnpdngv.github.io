@@ -3,7 +3,7 @@ main:
   - title: "Photography"
     url: /photo/
   - title: "Development"
-    url: /devel/
+    url: /dev/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -13,15 +13,13 @@ main:
   #
 
 # side bar
-devel:
+sidebar:
   - title: Development
+    url: /dev/
     children:
-      - title: "Flex & Bison"
-        url: /flex-bison/
-      - title: "Text Compilation"
-        url: /text-compilation/
+      - title: "Posts"
+        url: /dev/
 
-photo:
   - title: Photography
     url: /photo/
     children:

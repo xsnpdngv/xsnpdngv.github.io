@@ -4,8 +4,7 @@ permalink: /no-title/
 title: "No Title"
 header:
   teaser: /assets/photos/no-title/07.jpg
-#excerpt: "Mobile captures mostly on weather"
-excerpt: ""
+excerpt: "Mobile captures mostly on weather"
 
 categories:
   - photo

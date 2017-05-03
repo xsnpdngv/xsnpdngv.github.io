@@ -4,8 +4,7 @@ permalink: /blow-up/
 title: "Blow-Up"
 header:
   teaser: /assets/photos/blow-up/02.jpg
-#excerpt: "Paraphrase of Michelangelo Antonioni's 1966 movie, Blow-Up"
-excerpt: ""
+excerpt: "Paraphrase of Michelangelo Antonioni's 1966 movie, Blow-Up"
 
 categories:
   - photo
