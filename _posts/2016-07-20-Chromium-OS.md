@@ -46,7 +46,7 @@ Download NeverWare's CloudReady [image](https://www.neverware.com/freedownload)
 and Unzip the file to have `chromiumos_image.bin`.
 
 
-# Write
+# Prepare
 
 Plug a >=8GB USB flash disk and determine which device it became:
 `sudo fdisk -l`
