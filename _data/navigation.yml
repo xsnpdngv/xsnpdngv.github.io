@@ -17,7 +17,7 @@ sidebar:
   - title: Development
     url: /dev/
     children:
-      - title: "Posts"
+      - title: "Posts & Notes"
         url: /dev/
 
   - title: Photography
