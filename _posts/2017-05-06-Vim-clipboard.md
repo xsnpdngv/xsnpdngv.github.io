@@ -16,11 +16,15 @@ another program even other Vim instance can access it to be put (pasted).
 # Vim Support
 
 This can only be done, if Vim has support for `+clipboard` feature which can be
-checked with `vim --version | grep clipboard`. If there is a `-clipboard`, then
-this feature is not supported.
+checked with
+
+```bash
+vim --version | grep clipboard
+```
+If there is a `-clipboard` (with the minus sign), then the feature is not supported.
 
 On **Linux**, packages like `vim-gnome`, `vim-athena` and `vim-gtx` have this feature
-included, so installing any of them should solve this issue.
+included, so installing any of them should solve this issue e.g.,
 
 ```bash
 sudo apt-get install vim-gnome
