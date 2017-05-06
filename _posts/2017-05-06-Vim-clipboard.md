@@ -49,11 +49,11 @@ endif
 
 Since the clipboard belongs to the windowing system, in case of remote
 sessions it requires X11 forwarding even for pure terminal use. Using ssh
-with option -Y will do.
+with option -Y will do it.
 
 ```bash
 ssh -Y -p 2222 ubuntu@localhost
 ```
 
 If MacOS runs the X server (`XQuartz`), then it should have all Pasteboard
-options to be enabled under Preferences to work the feature flawlessly.
+options to be enabled under Preferences to have the feature work flawlessly.
