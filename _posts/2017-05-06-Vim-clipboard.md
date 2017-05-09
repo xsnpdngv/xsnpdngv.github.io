@@ -1,5 +1,5 @@
 ---
-title: Using the clipboard in Vim
+title: Using the X11-clipboard in Vim
 categories:
   - development
 tags:
@@ -8,10 +8,14 @@ tags:
   - mac
 ---
 
-Using the clipboard under Vim is not straightforward and obvious.
-The key concept here is to make Vim to use the clipboard as the unnamed
+Vim operations like copying, deleting, pasting by default use its own inner register
+which is not related to the clipboard, so these operations cannot interwork
+with the system's other applications. It is possible to relate this two
+to each other, however doing so might not be straightforward and obvious.
+
+The key concept here is to make Vim to use the X11-clipboard as the unnamed
 register to which it saves what has been yanked (copied), deleted or changed, so
-another program even other Vim instance can access it to be put (pasted).
+another program even other Vim instance can access it to be pasted.
 
 # Vim Support
 
@@ -23,7 +27,7 @@ vim --version | grep clipboard
 ```
 If there is a `-clipboard` (with the minus sign), then the feature is not supported.
 
-On **Linux**, packages like `vim-gnome`, `vim-athena` and `vim-gtx` have this feature
+On **Linux**, packages like `vim-gnome` and `vim-gtk` have this feature
 included, so installing any of them should solve this issue e.g.,
 
 ```bash
@@ -63,3 +67,14 @@ ssh -Y -p 2222 ubuntu@localhost
 If **MacOS** is the host machine, so it runs the X server (`XQuartz`), then it
 should have all options enabled under _Preferences_ > _Pasteboard_  to have the
 feature surely work.
+
+# Pitfalls
+
+Without even assigning the unnamed register to the X11-clipboard, when X11 forwarding
+is active, Vim connects to it. A slow remote connection might cause Vim to connect
+to the clipboard slowly, so it results noticable delay in starting. In such annoying
+cases it's better to make Vim not to connect to the clipboard.
+
+```vimscript
+set clipboard=exclude:.*
+```
