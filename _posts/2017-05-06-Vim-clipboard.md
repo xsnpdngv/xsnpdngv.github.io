@@ -9,7 +9,7 @@ tags:
 ---
 
 Vim operations like copying (`y`), deleting (`x`, `X`, `D`, `dd`), pasting (`p`, `P`)
-by default use its own inner register which is not related to the clipboard, so these
+by default use their own inner register which is not related to the clipboard, so these
 operations cannot interwork neither with the system's other applications nor with Vim's
 other instances. Though, it is possible to relate this two to each other, 
 doing so might not be straightforward and obvious.
