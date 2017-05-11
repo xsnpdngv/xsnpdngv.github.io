@@ -43,12 +43,14 @@ sudo apt-get install vim-gnome
 
 On MacOS, there are two ways:
 
-- Brewing Vim with the required option will let the feature fairly work, but requires
-  `XQuartz` running because it needs the X11 forwarding protocol to access the
-  clipboard. If it is not running when opening Vim for the first time, it will be
-  started automatically but it takes a while. Moreover, the solution is not complete.
-  Though, the copy-paste between instances of Vim works fine, interaction with OS-X's
-  native applications will work only after starting an `XQuartz` application.
+### Add Vim the required option
+
+Brewing Vim with `--with-client-server` option will let the feature fairly work, but
+requires `XQuartz` running because it needs the X11 forwarding protocol to access the
+clipboard. If it is not running when opening Vim for the first time, it will be
+started automatically but it takes a while. Moreover, the solution is not complete.
+Though, the copy-paste between instances of Vim works fine, interaction with OS-X's
+native applications will work only after starting an `XQuartz` application.
 
 ```bash
 # install Vim with +clipboard support
@@ -57,9 +59,11 @@ brew install vim --with-client-server
 After installing, remember to check if the new version is executed
 `which vi`, `which vim`. If not, set `PATH` or add `alias` in profile accordingly.
 
-- Brewing MacVim to override system Vim will give the best result. This will not
-  require `XQuartz` for any reason, and is able to access the system clipboard
-  in a native way, without X11 (which is not used by default in MacOS).
+### Use MacVim
+
+Brewing MacVim in a way to override system Vim will give the best result. This will not
+require `XQuartz` for any reason, and is able to access the system clipboard
+in a native way, without X11 (which is not used by default in MacOS).
   
 ```bash
 # install MacVim to support clipboard in a native way
