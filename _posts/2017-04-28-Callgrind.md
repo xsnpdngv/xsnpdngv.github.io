@@ -1,6 +1,8 @@
 ---
 title: Profiling with Callgrind
 excerpt: The idea of using Callgrind and the way how to.
+header:
+  teaser: /assets/photos/_posts/Valgrind_logo.png
 categories:
   - development
 tags:
