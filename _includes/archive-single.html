@@ -14,13 +14,11 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-          <a href="{{ post.url }}"><img src=
           {% if teaser %}
+          <a href="{{ post.url }}"><img src=
             "{{ teaser }}"
-          {% else %}
-            "{{ teaser | absolute_url }}"
-          {% endif %}
           alt=""></a>
+          {% endif %}
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
