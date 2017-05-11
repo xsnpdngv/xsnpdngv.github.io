@@ -1,5 +1,7 @@
 ---
 title: Using the X11-clipboard in Vim
+excerpt: Step-by-step guide on how to assign the clipboard to Vim in order to
+         use it by default for copying and pasting operations
 categories:
   - development
 tags:
@@ -8,13 +10,13 @@ tags:
   - mac
 ---
 
-Vim operations like copying (`y`), deleting (`x`, `X`, `D`, `dd`), pasting (`p`, `P`)
-by default use their own inner register which is not related to the clipboard, so these
-operations cannot interwork neither with the system's other applications nor with Vim's
-other instances. Though, it is possible to relate this two to each other, 
-doing so might not be straightforward and obvious.
-
 {% include toc %}
+
+Vim operations like copying (`y`), deleting (`x`, `X`, `D`, `dd`), pasting
+(`p`, `P`) by default use an inner register which is not related to the
+clipboard, so these operations cannot interwork neither with the system's other
+applications nor with Vim's other instances. Though, it is possible to relate
+this two to each other, doing so might not be straightforward and obvious.
 
 The key concept here is to make Vim to use the X11-clipboard as the unnamed
 register to which it saves what has been yanked (copied), deleted or changed, so
@@ -43,27 +45,28 @@ sudo apt-get install vim-gnome
 
 On MacOS, there are two ways to make the option available and working.
 
-### Add Vim the option
+### Add Vim the feature
 
 Brewing Vim with `--with-client-server` option will let the feature fairly work, but
 requires `XQuartz` running because it needs the X11 forwarding protocol to access the
 clipboard. If it is not running when opening Vim for the first time, it will be
 started automatically but it takes a while. Moreover, the solution is not complete.
 Though, the copy-paste between instances of Vim works fine, interaction with OS-X's
-native applications will work only after starting an `XQuartz` application.
+native applications will work only after starting an `XQuartz` application, like a
+terminal.
 
 ```bash
 # install Vim with +clipboard support
 brew install vim --with-client-server
 ```
-After installing, remember to check if the new version is executed
+After installing, remember to check if the new version is executed:
 `which vi`, `which vim`. If not, set `PATH` or add `alias` in profile accordingly.
 
 ### Use MacVim
 
-Brewing MacVim in a way to override system Vim will give the best result. This will not
-require `XQuartz` for any reason, and is able to access the system clipboard
-in a native way, without X11 (which is not used by default in MacOS).
+Brewing MacVim in a way to override system Vim will give a better result. This
+will not require `XQuartz` for any reason, and is able to access the system
+clipboard in a native way, without X11 (which is not used by default in MacOS).
   
 ```bash
 # install MacVim to support clipboard in a native way
@@ -75,11 +78,12 @@ this will be the default for `vi` or `vim` after it's done.
 
 # .vimrc
 
-If the clipboard is available, then assign to it the `unnamed` and `unnamedplus`
-registers as seen below. Ddepending on the system, it varies which is the better,
-so having both set is a good approach. Adding `autoselect` also to the clipboard
-makes visual Vim selections automatically be available to paste, without the
-need to copy/delete them. See `:help clipboard` for more information.
+If the clipboard is available, assign the `unnamed` and `unnamedplus` registers
+to it as seen below. Ddepending on the system, it varies which is the better,
+so having both set is a good approach. Adding `autoselect` also to the
+clipboard makes visual Vim selections automatically be available to paste,
+without the need to e.g., copy them. See `:help clipboard` for more
+information.
 
 ```vimscript
 if has('clipboard')
@@ -112,9 +116,9 @@ feature surely work.
 
 # Downside
 
-Without even assigning the unnamed register to the X11-clipboard, when X11 forwarding
+Even without assigning the unnamed register to the X11-clipboard, when X11 forwarding
 is active, Vim connects to it (except for MacVim). A slow remote connection might cause
-Vim to connect to the clipboard slowly, so it results noticable delay in starting.
+Vim to connect to the clipboard very slowly, so it results noticable delay in starting.
 In such annoying cases it might be better to make Vim not to connect to the clipboard.
 
 ```vimscript
