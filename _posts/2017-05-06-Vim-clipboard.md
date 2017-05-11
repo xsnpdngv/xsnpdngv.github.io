@@ -41,9 +41,9 @@ sudo apt-get install vim-gnome
 
 ## MacOS
 
-On MacOS, there are two ways:
+On MacOS, there are two ways to make the option available and working.
 
-### Add Vim the required option
+### Add Vim the option
 
 Brewing Vim with `--with-client-server` option will let the feature fairly work, but
 requires `XQuartz` running because it needs the X11 forwarding protocol to access the
