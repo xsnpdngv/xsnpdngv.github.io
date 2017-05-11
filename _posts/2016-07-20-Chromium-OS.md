@@ -1,5 +1,7 @@
 ---
 title: Installing Chromium OS
+excerpt: Pros and contras of having Chromiom OS installed, and detailed instructions
+         on how to do so.
 categories:
   - development
 tags:
@@ -9,11 +11,11 @@ tags:
   - ubuntu
 ---
 
+{% include toc %}
+
 [NeverWare](http://www.neverware.com) has built a Chromium OS based image to be
 easily installed, named CloudReady. Its home edition is free. It is available
 for both 32 and 64 bit. The image will work on most machines.
-
-{% include toc %}
 
 # Considerables
 
