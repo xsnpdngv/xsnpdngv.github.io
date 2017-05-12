@@ -17,7 +17,7 @@ sidebar:
   - title: Development
     url: /dev/
     children:
-      - title: "Tools & HowTos"
+      - title: "HowTools"
         url: /dev/
 
   - title: Photography
