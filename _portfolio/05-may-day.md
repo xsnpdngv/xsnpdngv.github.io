@@ -71,6 +71,7 @@ gallery:
 
 ## Exhibitions
 
+- 2016  Pictures and Pixels, Art Hall, Budapest (H)
 - 2007  May Day - Solo Exhibition, Budapest Cultural Center (H)
 
 {% include figure image_path="/assets/photos/may-day/MCS.jpg"
