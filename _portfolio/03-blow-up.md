@@ -39,3 +39,6 @@ images were blowen up digitally using bicubic interpolation algorithm.
 
 - 2016  Pictures and Pixels, Art Hall, Budapest (H)
 - 2009  Refresh / Image Error, FFS exhibition, ArtBázis, Budapest (H)
+
+{% include figure image_path="/assets/photos/blow-up/MCS.jpg"
+   caption="Art Hall (Műcsarnok), Budapest, 2016" %}

@@ -59,6 +59,14 @@ out from those.
 
 ## Exhibitions
 
+- 2016  Pictures and Pixels, Art Hall, Budapest (H)
 - 2008  Refresh / Still Life, FFS exhibition, ArtBázis, Budapest (H)
 - 2007  Question of Viewpoint, Exhibition of OKM's grant holders, MetroGallery, Budapest (H)
+- 2007  Dunaújvaros Photo Biennal, Bartók Theatre and House of Arts, Dunaújváros (H)
 - 2007  Solo Exhibition, Budapest Cultural Center (H)
+
+{% include figure image_path="/assets/photos/found-things/DPB.jpg"
+   caption="Bartók Theatre and House of Arts, Dunaújváros, 2007" %}
+
+{% include figure image_path="/assets/photos/found-things/MCS.jpg"
+   caption="Art Hall (Műcsarnok), Budapest, 2016" %}
