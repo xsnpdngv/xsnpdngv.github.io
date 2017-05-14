@@ -98,17 +98,20 @@ residents can slowly be portrayed even without seeing their faces.
 ## Exhibitions
 
 - 2010  Photo Espana / OpenPHoto, Cultural Universidad Abierta UCLM., Cuenca (E)
-- 2010  Modernización, Festival Europes, Nau Ivanov, Barcelona (E)
+- 2010  Modernización, Festival Europes, Nau Ivanow, Barcelona (E)
 - 2009  XVII. Hungarian Press Photo Exhibition, Hungarian National Museum, Budapest (H)
 - 2009  Einen Schritt weiter, Galerie Treppenhaus, Erlangen (D)
 - 2008  A Step Beyond, FFS exhibition, Month of Photography, VAM Design Center, Budapest (H)
 - 2008  Refresh / Living Space, FFS Exhibition, ArtBázis, Budapest (H)
 
-{% include figure image_path="/assets/photos/block/VAM.jpg"
-   caption="VAM Design Center, 2008" %}
-
 {% include figure image_path="/assets/photos/block/PHE.jpg"
-   caption="PHoto Espana, 2010" %}
+   caption="PHoto Espana, phe.es, 2010" %}
+
+{% include figure image_path="/assets/photos/block/CUE.jpg"
+   caption="PHoto Espana, Cuenca, 2010" %}
 
 {% include figure image_path="/assets/photos/block/NAU.jpg"
-   caption="Nau Ivanov, Barcelona, 2010" %}
+   caption="Nau Ivanow, Barcelona, 2010" %}
+
+{% include figure image_path="/assets/photos/block/VAM.jpg"
+   caption="VAM Design Center, Budapest, 2008" %}
