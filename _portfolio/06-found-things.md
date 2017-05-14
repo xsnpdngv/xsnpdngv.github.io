@@ -67,6 +67,3 @@ out from those.
 
 {% include figure image_path="/assets/photos/found-things/DPB.jpg"
    caption="Bartók Theatre and House of Arts, Dunaújváros, 2007" %}
-
-{% include figure image_path="/assets/photos/found-things/MCS.jpg"
-   caption="Art Hall (Műcsarnok), Budapest, 2016" %}

@@ -73,5 +73,8 @@ gallery:
 
 - 2007  May Day - Solo Exhibition, Budapest Cultural Center (H)
 
+{% include figure image_path="/assets/photos/may-day/MCS.jpg"
+   caption="Art Hall (Műcsarnok), Budapest, 2016" %}
+
 {% include figure image_path="/assets/photos/may-day/MD.gif"
    caption="Budapest Cultural Center, 2007" %}
