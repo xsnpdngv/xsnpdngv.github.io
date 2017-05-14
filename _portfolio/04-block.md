@@ -104,11 +104,11 @@ residents can slowly be portrayed even without seeing their faces.
 - 2008  A Step Beyond, FFS exhibition, Month of Photography, VAM Design Center, Budapest (H)
 - 2008  Refresh / Living Space, FFS Exhibition, ArtBázis, Budapest (H)
 
-{% include figure image_path="/assets/photo/block/VAM.jpg"
+{% include figure image_path="/assets/photos/block/VAM.jpg"
    caption="VAM Design Center, 2008" %}
 
-{% include figure image_path="/assets/photo/block/PHE.jpg"
+{% include figure image_path="/assets/photos/block/PHE.jpg"
    caption="PHoto Espana, 2010" %}
 
-{% include figure image_path="/assets/photo/block/NAU.jpg"
+{% include figure image_path="/assets/photos/block/NAU.jpg"
    caption="Nau Ivanov, Barcelona, 2010" %}
