@@ -23,6 +23,8 @@ sidebar:
   - title: Photography
     url: /photo/
     children:
+      - title: "Motion Pictures"
+        url: /video/
       - title: "No Title"
         url: /no-title/
       - title: "Film Stills"
@@ -39,5 +41,3 @@ sidebar:
         url: /proved-presence/
       - title: "Afterimage"
         url: /afterimage/
-      - title: "Motion Pictures"
-        url: /video/
