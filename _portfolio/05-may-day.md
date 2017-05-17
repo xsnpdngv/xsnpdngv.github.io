@@ -54,9 +54,9 @@ gallery:
     image_path: /assets/photos/may-day/10.jpg
     title: "May Day, 2005-2010"
 
-  - url: /assets/photos/may-day/11.jpg
-    image_path: /assets/photos/may-day/11.jpg
-    title: "May Day, 2005-2010"
+# - url: /assets/photos/may-day/11.jpg
+#   image_path: /assets/photos/may-day/11.jpg
+#   title: "May Day, 2005-2010" */
 
   - url: /assets/photos/may-day/12.jpg
     image_path: /assets/photos/may-day/12.jpg
