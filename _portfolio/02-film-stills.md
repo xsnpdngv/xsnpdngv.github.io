@@ -43,4 +43,7 @@ gallery:
 
 ## Exhibitions
 
-- 2015  Random Experimental, Random Gallery, Budapest (H)
+- 2015  Random Experiment, Random Gallery, Budapest (H)
+
+{% include figure image_path="/assets/photos/film-stills/RND.jpg"
+   caption="Random Gallery, Budapest, 2015" %}
