@@ -13,13 +13,16 @@ main:
   #
 
 # side bar
-sidebar:
+sidebar-dev:
   - title: Development
     url: /dev/
     children:
+      - title: "Bookmarks"
+        url: /dev/
       - title: "HowTools"
         url: /dev/
 
+sidebar-photo:
   - title: Photography
     url: /photo/
     children:

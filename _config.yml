@@ -255,7 +255,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "sidebar"
+        nav: "sidebar-dev"
 
   # _pages
   - scope:
@@ -265,8 +265,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      sidebar:
-        nav: "sidebar"
+      #sidebar:
+      #nav: "sidebar"
 
   # _portfolio
   - scope:
@@ -277,4 +277,4 @@ defaults:
       author_profile: true
       share: true
       sidebar:
-        nav: "sidebar"
+        nav: "sidebar-photo"
