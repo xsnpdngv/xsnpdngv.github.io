@@ -4,7 +4,7 @@ permalink: /video/
 title: "Motion Pictures"
 excerpt: "Footages on hardly moving subjects"
 header:
-  teaser: /assets/photos/videography/teaser.png
+  teaser: /assets/photos/videography/teaser.jpg
 
 categories:
   - video

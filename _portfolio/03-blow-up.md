@@ -3,7 +3,7 @@ permalink: /blow-up/
 
 title: "Blow-Up"
 header:
-  teaser: /assets/photos/blow-up/02.jpg
+  teaser: /assets/photos/blow-up/teaser.jpg
 excerpt: "Paraphrase of Michelangelo Antonioni's 1966 movie, Blow-Up"
 
 categories:
