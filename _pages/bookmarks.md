@@ -98,13 +98,12 @@ sidebar:
 
 ### Vim
 
-[Learning the vi Editor](https://docstore.mik.ua/orelly/unix3/vi/index.htm)  
-[Vim Cheat Sheet based on ProVim](https://xsnpdngv.github.io/vimcheat/)  
 [A Great Vim Cheat Sheet](http://vimsheet.com/)  
+[Vim Cheat Sheet based on ProVim](https://xsnpdngv.github.io/vimcheat/)  
 [Vim Awesome Plugin Collection](http://vimawesome.com/)  
-[Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)  
 [Vim Casts - Essential Vim Skills](http://vimcasts.org/)  
 [Vimscript Cheat Sheet](http://ricostacruz.com/cheatsheets/vimscript.html)  
+[Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)  
 [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)  
 [Vim C++ Enhanced Syntax Highlight](https://github.com/octol/vim-cpp-enhanced-highlight)  
 
