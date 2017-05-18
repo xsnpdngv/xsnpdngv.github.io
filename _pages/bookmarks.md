@@ -78,7 +78,7 @@ sidebar:
                   [`html`](https://www.gnu.org/software/bison/manual/bison.html)
                    [`pdf`](https://www.gnu.org/software/bison/manual/bison.pdf)  
 [Flex & Bison Book (pdf)](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
-[AutoFSM - Automated Finite State Machine](https://www.gnu.org/software/autogen/autofsm.html)  
+[AutoFSM - Finite State Machine Generator](https://www.gnu.org/software/autogen/autofsm.html)  
 
 
 ## Doc
@@ -86,14 +86,14 @@ sidebar:
 ### Vim
 
 [Learning the vi Editor](https://docstore.mik.ua/orelly/unix3/vi/index.htm)  
-[Vim Cheat based on ProVim](https://xsnpdngv.github.io/vimcheat/)  
+[Vim Cheat Sheet based on ProVim](https://xsnpdngv.github.io/vimcheat/)  
 [A Great Vim Cheat Sheet](http://vimsheet.com/)  
 [Vim Awesome Plugin Collection](http://vimawesome.com/)  
 [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)  
 [Vim Casts - Essential Vim Skills](http://vimcasts.org/)  
-[Vim C++ Enhanced Syntax Highlight](https://github.com/octol/vim-cpp-enhanced-highlight)  
 [Vimscript Cheat Sheet](http://ricostacruz.com/cheatsheets/vimscript.html)  
 [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)  
+[Vim C++ Enhanced Syntax Highlight](https://github.com/octol/vim-cpp-enhanced-highlight)  
 
 ### LaTeX
 
