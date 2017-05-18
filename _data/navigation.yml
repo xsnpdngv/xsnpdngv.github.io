@@ -17,10 +17,10 @@ sidebar-dev:
   - title: Development
     url: /dev/
     children:
-      - title: "Bookmarks"
-        url: /dev/
       - title: "HowTools"
         url: /dev/
+      - title: "Bookmarks"
+        url: /bookmarks/
 
 sidebar-photo:
   - title: Photography
