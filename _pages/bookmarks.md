@@ -15,8 +15,8 @@ sidebar:
 ### Reference
 
 [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/)
-                  [\[html\]](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-                   [\[pdf\]](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)  
+                  [`html`](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+                   [`pdf`](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)  
 [CppReference.com](http://cppreference.com/)  
 [CPlusPlus.com](http://www.cplusplus.com/)  
 [SGI Standard Template Library Documentation](https://www.sgi.com/tech/stl/stl_index_cat.html)  
@@ -25,8 +25,8 @@ sidebar:
 ### Guideline
 
 [GNU Coding Standards](https://www.gnu.org/prep/standards/)
-            [\[html\]](https://www.gnu.org/prep/standards/standards.html)
-             [\[pdf\]](https://www.gnu.org/prep/standards/standards.pdf)  
+            [`html`](https://www.gnu.org/prep/standards/standards.html)
+             [`pdf`](https://www.gnu.org/prep/standards/standards.pdf)  
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)  
 [ISOCPP C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines.git)  
 [Microsoft Guideline Support Library](https://github.com/Microsoft/GSL.git)  
@@ -34,53 +34,66 @@ sidebar:
 ### Library
 
 [GLibc - The GNU C Library](https://www.gnu.org/software/libc/manual/)
-            [\[html\]](https://www.gnu.org/software/libc/manual/html_mono/libc.html)
-             [\[pdf\]](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)  
+            [`html`](https://www.gnu.org/software/libc/manual/html_mono/libc.html)
+             [`pdf`](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)  
 [GnuLib - The GNU Portability Library](https://www.gnu.org/software/gnulib/)
-                            [\[html\]](https://www.gnu.org/software/gnulib/manual/gnulib.html)
-                             [\[pdf\]](https://www.gnu.org/software/gnulib/manual/gnulib.pdf)  
+                            [`html`](https://www.gnu.org/software/gnulib/manual/gnulib.html)
+                             [`pdf`](https://www.gnu.org/software/gnulib/manual/gnulib.pdf)  
 [GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++/)  
 [Boost C++ Library](http://www.boost.org/)  
 [LLVM libcxx Source](http://llvm.org/svn/llvm-project/libcxx/trunk/)  
 
 ### Tools
 
-[LLVM Clang Compiler](http://clang.llvm.org/)  
+[GCC Online Documentation](https://gcc.gnu.org/onlinedocs/)  
+[GNU Make](https://www.gnu.org/software/make/manual/)
+[`html`](https://www.gnu.org/software/make/manual/make.html)
+ [`pdf`](https://www.gnu.org/software/make/manual/make.pdf)  
+[GNU Autoconf](https://www.gnu.org/software/autoconf/manual/index.html)
+     [`html`](https://www.gnu.org/software/autoconf/manual/autoconf.html)
+      [`pdf`](https://www.gnu.org/software/autoconf/manual/autoconf.pdf)  
+[GNU Automake](https://www.gnu.org/software/automake/automake.html)
+    [`html`](https://www.gnu.org/software/automake/manual/automake.html)
+     [`pdf`](https://www.gnu.org/software/automake/manual/automake.pdf)  
+[GNU Libtool](https://www.gnu.org/software/libtool/libtool.html)
+     [`html`](https://www.gnu.org/software/libtool/manual/libtool.html)
+     [`pdf`](https://www.gnu.org/software/libtool/manual/libtool.pdf)  
+[GNU M4 Macro Processor](https://www.gnu.org/software/m4/manual/index.html)
+                [`html`](https://www.gnu.org/software/m4/manual/m4.html)
+                 [`pdf`](https://www.gnu.org/software/m4/manual/m4.pdf)  
+
+[LLVM Clang Compiler](http://clang.llvm.org/docs/UsersManual.html)  
+[Clang Static Analyser](http://clang-analyzer.llvm.org/)  
 [Ericsson Codechecker @GitHub](https://github.com/Ericsson/codechecker)  
 [cmocka - Unit Testing Framework for C](https://cmocka.org/)  
-[Vim C++ Enhanced Syntax Highlight](https://github.com/octol/vim-cpp-enhanced-highlight)  
-
+[LCOV - Code Coverage Report Fronted](http://ltp.sourceforge.net/coverage/lcov.php)  
 [Valgrind - Instrumentation Framework](http://valgrind.org/)  
 [Callgrind - Call Graph Generator](http://valgrind.org/docs/manual/cl-manual.html)  
 [KCacheGrind - Call Graph Viewer](http://kcachegrind.sourceforge.net/html/Home.html)  
 
-[GCC Online Documentation](https://gcc.gnu.org/onlinedocs/)  
-[GNU Make](https://www.gnu.org/software/make/manual/)
-[\[html\]](https://www.gnu.org/software/make/manual/make.html)
- [\[pdf\]](https://www.gnu.org/software/make/manual/make.pdf)  
-[GNU Autoconf](https://www.gnu.org/software/autoconf/manual/index.html)
-     [\[html\]](https://www.gnu.org/software/autoconf/manual/autoconf.html)
-      [\[pdf\]](https://www.gnu.org/software/autoconf/manual/autoconf.pdf)  
-[GNU Automake](https://www.gnu.org/software/automake/automake.html)
-    [\[html\]](https://www.gnu.org/software/automake/manual/automake.html)
-     [\[pdf\]](https://www.gnu.org/software/automake/manual/automake.pdf)  
-[GNU Libtool](https://www.gnu.org/software/libtool/libtool.html)
-    [\[html\]](https://www.gnu.org/software/libtool/manual/libtool.html)
-     [\[pdf\]](https://www.gnu.org/software/libtool/manual/libtool.pdf)  
-[GNU M4 Macro Processor](https://www.gnu.org/software/m4/manual/index.html)
-[\[html\]](https://www.gnu.org/software/m4/manual/m4.html)
- [\[pdf\]](https://www.gnu.org/software/m4/manual/m4.pdf)  
+[Flex - Fast Lexer Generator](https://github.com/westes/flex)
+                    [`html`](ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html)
+                     [`pdf`](/assets/download/Flex.v2.5.35.pdf)  
+[Bison - Parser Generator](https://www.gnu.org/software/bison/manual/)
+                  [`html`](https://www.gnu.org/software/bison/manual/bison.html)
+                   [`pdf`](https://www.gnu.org/software/bison/manual/bison.pdf)  
+[Flex & Bison Book (pdf)](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
+[AutoFSM - Automated Finite State Machine](https://www.gnu.org/software/autogen/autofsm.html)  
 
 
-## Documentation
+## Doc
 
 ### Vim
 
+[Learning the vi Editor](https://docstore.mik.ua/orelly/unix3/vi/index.htm)  
 [Vim Cheat based on ProVim](https://xsnpdngv.github.io/vimcheat/)  
 [A Great Vim Cheat Sheet](http://vimsheet.com/)  
 [Vim Awesome Plugin Collection](http://vimawesome.com/)  
 [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)  
-[Vim Casts - Essential Vim Skills](http://vimcasts.org/)
+[Vim Casts - Essential Vim Skills](http://vimcasts.org/)  
+[Vim C++ Enhanced Syntax Highlight](https://github.com/octol/vim-cpp-enhanced-highlight)  
+[Vimscript Cheat Sheet](http://ricostacruz.com/cheatsheets/vimscript.html)  
+[Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)  
 
 ### LaTeX
 
@@ -92,32 +105,44 @@ sidebar:
 
 [Doxygen - Documentation from Source Code](http://www.doxygen.org)  
 [Pandoc - Universal Document Converter](http://pandoc.org)  
-[Markdown - Easy-Syntax Styling: Reference](https://guides.github.com/features/mastering-markdown/)  
+[Markdown - Syntax Reference](https://guides.github.com/features/mastering-markdown/)  
 
 ### Visualization
 
 [Reveal.js - HTML Presentation Framework](http://lab.hakim.se/reveal-js/#/)  
 [Graphviz - Graph Visualization](http://www.graphviz.org/)  
+[Railroad Diagram Generator](http://www.bottlecaps.de/rr/ui)  
 [yEd - Graph Editor](https://www.yworks.com/products/yed)  
 [D3.js - Data Driven Documents](https://d3js.org/)  
 
 ## Misc
 
-[IT E-Books Download Directory](http://it-ebooks.directory/)  
+### E-Books
 
-[Bison Online Documentation](https://www.gnu.org/software/bison/manual/)
-                  [\[html\]](https://www.gnu.org/software/bison/manual/bison.html)
-                   [\[pdf\]](https://www.gnu.org/software/bison/manual/bison.pdf)  
-[GNU Awk Documentation](https://www.gnu.org/software/gawk/manual/)
-             [\[html\]](https://www.gnu.org/software/gawk/manual/gawk.html)
-              [\[pdf\]](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
+[IT E-Books Download Directory](http://it-ebooks.directory/)  
+[OReilly's CD Bookshelfs](https://docstore.mik.ua/orelly/bookshelfs.html)  
+
+### Scripting
+
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
-            [\[html\]](https://www.gnu.org/software/bash/manual/html_node/index.html)
-             [\[pdf\]](https://www.gnu.org/software/bash/manual/bash.pdf)  
+            [`html`](https://www.gnu.org/software/bash/manual/html_node/index.html)
+             [`pdf`](https://www.gnu.org/software/bash/manual/bash.pdf)  
+[Learning the Korn Shell](https://docstore.mik.ua/orelly/unix3/korn/index.htm)  
+[Sed - Stream Editor](https://www.gnu.org/software/sed/)
+            [`html`](https://www.gnu.org/software/sed/manual/sed.html)
+             [`pdf`](https://www.gnu.org/software/sed/manual/sed.pdf)  
+[Awk - Text Processor](https://www.gnu.org/software/gawk/manual/)
+             [`html`](https://www.gnu.org/software/gawk/manual/gawk.html)
+              [`pdf`](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
+[Sed & Awk](https://docstore.mik.ua/orelly/unix3/sedawk/index.htm)  
 [Lua 5.3 Reference Manual](https://www.lua.org/manual/5.3/)  
+
+### Virtualization
 
 [Hashicorp Vagrant](https://www.vagrantup.com/)  
 [Oracle VirtualBox](https://www.virtualbox.org/)  
+
+### Embedded
 
 [C++ Embedded Systems Programming](http://www.bogotobogo.com/cplusplus/embeddedSystemsProgramming.php)  
 [Circuit Basics - Raspberry Pi](http://www.circuitbasics.com/raspberry-pi/)  
