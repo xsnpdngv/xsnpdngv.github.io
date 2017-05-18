@@ -8,7 +8,7 @@
 #theme: "minimal-mistakes-jekyll"
 # Site Settings
 locale                   : "en"
-title                    : "Tamás T. DEZSŐ"
+title                    : "X S N P D N G V"
 title_separator          : "-"
 name                     : "Tamás T. DEZSŐ"
 description              : "Personal website"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : xsnpdngv
+  name             : "Tamás T. Dezső"
   avatar           : "/assets/photos/dtt.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "secretly I am<br/>extroverted"
+  bio              : "secretly extroverted"
   location         :
   email            : "dezso.t.tamas@gmail.com"
   uri              :
