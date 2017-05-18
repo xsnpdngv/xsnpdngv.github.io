@@ -10,6 +10,13 @@ sidebar:
 
 {% include toc %}
 
+## Collections
+
+[IT E-Books Download Directory](http://it-ebooks.directory/)  
+[OReilly's CD Bookshelfs](https://docstore.mik.ua/orelly/bookshelfs.html)  
+[The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
+[Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
+
 ## C/C++
 
 ### Reference
@@ -45,10 +52,12 @@ sidebar:
 
 ### Tools
 
-[GCC Online Documentation](https://gcc.gnu.org/onlinedocs/)  
+[GNU Compiler Collection](https://gcc.gnu.org/onlinedocs/)
+                   [`man`](http://man7.org/linux/man-pages/man1/gcc.1.html)  
 [GNU Make](https://www.gnu.org/software/make/manual/)
-[`html`](https://www.gnu.org/software/make/manual/make.html)
- [`pdf`](https://www.gnu.org/software/make/manual/make.pdf)  
+   [`man`](http://man7.org/linux/man-pages/man1/make.1.html)
+  [`html`](https://www.gnu.org/software/make/manual/make.html)
+   [`pdf`](https://www.gnu.org/software/make/manual/make.pdf)  
 [GNU Autoconf](https://www.gnu.org/software/autoconf/manual/index.html)
      [`html`](https://www.gnu.org/software/autoconf/manual/autoconf.html)
       [`pdf`](https://www.gnu.org/software/autoconf/manual/autoconf.pdf)  
@@ -59,6 +68,7 @@ sidebar:
      [`html`](https://www.gnu.org/software/libtool/manual/libtool.html)
      [`pdf`](https://www.gnu.org/software/libtool/manual/libtool.pdf)  
 [GNU M4 Macro Processor](https://www.gnu.org/software/m4/manual/index.html)
+                 [`man`](http://man7.org/linux/man-pages/man1/m4.1p.html)
                 [`html`](https://www.gnu.org/software/m4/manual/m4.html)
                  [`pdf`](https://www.gnu.org/software/m4/manual/m4.pdf)  
 
@@ -67,7 +77,9 @@ sidebar:
 [Ericsson Codechecker @GitHub](https://github.com/Ericsson/codechecker)  
 [cmocka - Unit Testing Framework for C](https://cmocka.org/)  
 [LCOV - Code Coverage Report Fronted](http://ltp.sourceforge.net/coverage/lcov.php)  
-[Valgrind - Instrumentation Framework](http://valgrind.org/)  
+[Valgrind - Instrumentation Framework](http://valgrind.org/)
+                               [`man`](http://man7.org/linux/man-pages/man1/valgrind.1.html)
+                             [`howto`](https://linux.die.net/HOWTO/Valgrind-HOWTO/index.html)  
 [Callgrind - Call Graph Generator](http://valgrind.org/docs/manual/cl-manual.html)  
 [KCacheGrind - Call Graph Viewer](http://kcachegrind.sourceforge.net/html/Home.html)  
 
@@ -77,7 +89,8 @@ sidebar:
 [Bison - Parser Generator](https://www.gnu.org/software/bison/manual/)
                   [`html`](https://www.gnu.org/software/bison/manual/bison.html)
                    [`pdf`](https://www.gnu.org/software/bison/manual/bison.pdf)  
-[Flex & Bison Book (pdf)](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
+[Flex & Bison Book](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)
+            [`pdf`](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
 [AutoFSM - Finite State Machine Generator](https://www.gnu.org/software/autogen/autofsm.html)  
 
 
@@ -99,7 +112,8 @@ sidebar:
 
 [The LaTeX Project](https://www.latex-project.org/)  
 [Sharelatex: Creating a Document in LaTeX](https://www.sharelatex.com/learn/Creating_a_document_in_LaTeX)  
-[LaTeX Cheat Sheet (pdf)](https://wch.github.io/latexsheet/latexsheet-a4.pdf)  
+[LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf)
+            [`pdf`](https://wch.github.io/latexsheet/latexsheet-a4.pdf)  
 
 ### Generation
 
@@ -117,21 +131,19 @@ sidebar:
 
 ## Misc
 
-### E-Books
-
-[IT E-Books Download Directory](http://it-ebooks.directory/)  
-[OReilly's CD Bookshelfs](https://docstore.mik.ua/orelly/bookshelfs.html)  
-
 ### Scripting
 
+[Learning the Korn Shell](https://docstore.mik.ua/orelly/unix3/korn/index.htm)  
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
+             [`man`](http://man7.org/linux/man-pages/man1/bash.1.html)
             [`html`](https://www.gnu.org/software/bash/manual/html_node/index.html)
              [`pdf`](https://www.gnu.org/software/bash/manual/bash.pdf)  
-[Learning the Korn Shell](https://docstore.mik.ua/orelly/unix3/korn/index.htm)  
 [Sed - Stream Editor](https://www.gnu.org/software/sed/)
+             [`man`](http://man7.org/linux/man-pages/man1/sed.1.html)
             [`html`](https://www.gnu.org/software/sed/manual/sed.html)
              [`pdf`](https://www.gnu.org/software/sed/manual/sed.pdf)  
 [Awk - Text Processor](https://www.gnu.org/software/gawk/manual/)
+              [`man`](http://man7.org/linux/man-pages/man1/awk.1p.html)
              [`html`](https://www.gnu.org/software/gawk/manual/gawk.html)
               [`pdf`](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
 [Sed & Awk](https://docstore.mik.ua/orelly/unix3/sedawk/index.htm)  
@@ -147,3 +159,4 @@ sidebar:
 [C++ Embedded Systems Programming](http://www.bogotobogo.com/cplusplus/embeddedSystemsProgramming.php)  
 [Circuit Basics - Raspberry Pi](http://www.circuitbasics.com/raspberry-pi/)  
 [Build Yourself a Linux](https://github.com/MichielDerhaeg/build-linux)  
+
