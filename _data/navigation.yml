@@ -17,10 +17,10 @@ sidebar-dev:
   - title: Development
     url: /dev/
     children:
-      - title: "HowTools"
+      - title: "Posts"
         url: /dev/
-      - title: "Bookmarks"
-        url: /bookmarks/
+      - title: "Links"
+        url: /links/
 
 sidebar-photo:
   - title: Photography
@@ -28,12 +28,12 @@ sidebar-photo:
     children:
       - title: "Motion Pictures"
         url: /video/
-      - title: "No Title"
-        url: /no-title/
       - title: "Film Stills"
         url: /film-stills/
       - title: "Blow-Up"
         url: /blow-up/
+      - title: "No Title"
+        url: /no-title/
       - title: "Block"
         url: /block/
       - title: "May Day"

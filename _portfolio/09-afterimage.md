@@ -3,7 +3,7 @@ permalink: /afterimage/
 
 title: "Afterimage"
 header:
-  teaser: /assets/photos/afterimage/01.jpg
+  teaser: /assets/photos/afterimage/teaser.jpg
 excerpt: "A view after the one becoming absent"
 
 categories:

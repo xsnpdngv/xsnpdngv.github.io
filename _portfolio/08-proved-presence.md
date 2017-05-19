@@ -3,7 +3,7 @@ permalink: /proved-presence/
 
 title: "Proved Presence"
 header:
-  teaser: /assets/photos/proved-presence/03.jpg
+  teaser: /assets/photos/proved-presence/teaser.jpg
 excerpt: "Evidences of witnessing odd coexistences"
 
 categories:

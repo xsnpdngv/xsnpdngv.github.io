@@ -3,7 +3,7 @@ permalink: /still-scenes/
 
 title: "Still Scenes"
 header:
-  teaser: /assets/photos/still-scenes/02.jpg
+  teaser: /assets/photos/still-scenes/teaser.jpg
 excerpt: "Urban documentary"
 
 categories:

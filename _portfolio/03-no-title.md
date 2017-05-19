@@ -3,7 +3,7 @@ permalink: /no-title/
 
 title: "No Title"
 header:
-  teaser: /assets/photos/no-title/07.jpg
+  teaser: /assets/photos/no-title/teaser.jpg
 excerpt: "Mobile captures mostly on weather"
 
 categories:

@@ -3,7 +3,7 @@ permalink: /may-day/
 
 title: "May Day"
 header:
-  teaser: /assets/photos/may-day/04.jpg
+  teaser: /assets/photos/may-day/teaser.jpg
 excerpt: "Labor Day Celebration, 1st of May"
 
 categories:

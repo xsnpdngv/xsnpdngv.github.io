@@ -6,9 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 #theme: "minimal-mistakes-jekyll"
+#for Jekyll on vagrant VM
+#host: 0.0.0.0
+#
 # Site Settings
 locale                   : "en"
-title                    : "X S N P D N G V"
+title                    : "A S D F . H U"
 title_separator          : "-"
 name                     : "Tamás T. DEZSŐ"
 description              : "Personal website"

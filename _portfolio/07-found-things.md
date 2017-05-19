@@ -3,7 +3,7 @@ permalink: /found-things/
 
 title: "Found Things"
 header:
-  teaser: /assets/photos/found-things/07.jpg
+  teaser: /assets/photos/found-things/teaser.jpg
 excerpt: "Abandoned objects in their original surroundings"
 
 categories:

@@ -1,9 +1,10 @@
 ---
-permalink: /bookmarks/
+permalink: /links/
 
-title: "Bookmarks"
+title: "Links"
 
-excerpt: ""
+excerpt: "Bookmarks"
+
 sidebar:
   nav: "sidebar-dev"
 ---
