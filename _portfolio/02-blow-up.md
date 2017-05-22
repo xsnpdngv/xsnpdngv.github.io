@@ -4,7 +4,7 @@ permalink: /blow-up/
 title: "Blow-Up"
 header:
   teaser: /assets/photos/blow-up/teaser.jpg
-excerpt: "Paraphrase of Michelangelo Antonioni's 1966 movie, Blow-Up"
+excerpt: "Paraphrase of Michelangelo Antonioni's 1966 movie Blow-Up"
 
 categories:
   - photo
@@ -16,15 +16,15 @@ tags:
 gallery:
   - url: /assets/photos/blow-up/01.jpg
     image_path: /assets/photos/blow-up/01.jpg
-    title: "The Body, 2008 | 100x56.2cm, giclée print"
+    title: "The Body | 100x56.2cm, giclée print"
 
   - url: /assets/photos/blow-up/02.jpg
     image_path: /assets/photos/blow-up/02.jpg
-    title: "The Gun, 2008 | 100x56.2cm, giclée print"
+    title: "The Gun | 100x56.2cm, giclée print"
 
   - url: /assets/photos/blow-up/03.jpg
     image_path: /assets/photos/blow-up/03.jpg
-    title: "The Murderer, 2008 | 100x56.2cm, giclée print"
+    title: "The Murderer | 100x56.2cm, giclée print"
 ---
 
 {% include gallery caption="Blow-Up \| Budapest, 2009" %}
