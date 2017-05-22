@@ -13,10 +13,10 @@ sidebar:
 
 ## Collections
 
-[O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
-[IT E-Books Download Directory](http://it-ebooks.directory/)  
-[The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
 [Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
+[The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
+[IT E-Books Download Directory](http://it-ebooks.directory/)  
+[O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
 
 ## C/C++
 
