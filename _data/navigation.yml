@@ -21,6 +21,8 @@ sidebar-dev:
         url: /dev/
       - title: "Links"
         url: /links/
+      - title: "Quotes"
+        url: /quotes/
 
 sidebar-photo:
   - title: Photography
