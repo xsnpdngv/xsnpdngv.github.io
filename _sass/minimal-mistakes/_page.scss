@@ -8,6 +8,7 @@
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
+  text-align: justify;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.35s;
@@ -406,6 +407,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Own Stuff
+   ========================================================================== */
 
 .quotes {
   font-family: $serif;
