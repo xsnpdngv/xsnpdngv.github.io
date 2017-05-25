@@ -3,7 +3,7 @@ permalink: /quotes/
 title: "Programming Wisdom Quotes"
 excerpt: "Selection of wisdom quotes on programming"
 sidebar:
-  nav: "sidebar-dev"
+  nav: "sidebar-tech"
 classes:
   - quotes
 ---

@@ -258,7 +258,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "sidebar-dev"
+        nav: "sidebar-tech"
 
   # _pages
   - scope:

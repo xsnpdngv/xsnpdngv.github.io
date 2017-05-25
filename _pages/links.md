@@ -6,7 +6,7 @@ title: "Links"
 excerpt: "Bookmarks"
 
 sidebar:
-  nav: "sidebar-dev"
+  nav: "sidebar-tech"
 ---
 
 {% include toc %}
