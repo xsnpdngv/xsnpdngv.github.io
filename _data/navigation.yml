@@ -14,7 +14,7 @@ main:
 
 # side bar
 sidebar-tech:
-  - title: Development
+  - title: Technology
     url: /tech/
     children:
       - title: "Posts"
