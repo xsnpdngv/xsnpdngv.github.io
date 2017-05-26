@@ -72,6 +72,15 @@ sidebar:
                  [`man`](http://man7.org/linux/man-pages/man1/m4.1p.html)
                 [`html`](https://www.gnu.org/software/m4/manual/m4.html)
                  [`pdf`](https://www.gnu.org/software/m4/manual/m4.pdf)  
+[Flex - Fast Lexer Generator](https://github.com/westes/flex)
+                    [`html`](ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html)
+                     [`pdf`](/assets/download/Flex.v2.5.35.pdf)  
+[Bison - Parser Generator](https://www.gnu.org/software/bison/manual/)
+                  [`html`](https://www.gnu.org/software/bison/manual/bison.html)
+                   [`pdf`](https://www.gnu.org/software/bison/manual/bison.pdf)  
+[Flex & Bison Book](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)
+            [`pdf`](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
+[AutoFSM - Finite State Machine Generator](https://www.gnu.org/software/autogen/autofsm.html)  
 
 [LLVM Clang Compiler](http://clang.llvm.org/docs/UsersManual.html)  
 [Clang Static Analyser](http://clang-analyzer.llvm.org/)  
@@ -83,16 +92,6 @@ sidebar:
                              [`howto`](https://linux.die.net/HOWTO/Valgrind-HOWTO/index.html)  
 [Callgrind - Call Graph Generator](http://valgrind.org/docs/manual/cl-manual.html)  
 [KCacheGrind - Call Graph Viewer](http://kcachegrind.sourceforge.net/html/Home.html)  
-
-[Flex - Fast Lexer Generator](https://github.com/westes/flex)
-                    [`html`](ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html)
-                     [`pdf`](/assets/download/Flex.v2.5.35.pdf)  
-[Bison - Parser Generator](https://www.gnu.org/software/bison/manual/)
-                  [`html`](https://www.gnu.org/software/bison/manual/bison.html)
-                   [`pdf`](https://www.gnu.org/software/bison/manual/bison.pdf)  
-[Flex & Bison Book](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)
-            [`pdf`](http://web.iitd.ac.in/~sumeet/flex__bison.pdf)  
-[AutoFSM - Finite State Machine Generator](https://www.gnu.org/software/autogen/autofsm.html)  
 
 
 ## Doc
