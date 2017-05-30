@@ -135,19 +135,24 @@ sidebar:
 
 [Learning the Korn Shell](https://docstore.mik.ua/orelly/unix3/korn/index.htm)  
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
-             [`man`](http://man7.org/linux/man-pages/man1/bash.1.html)
-            [`html`](https://www.gnu.org/software/bash/manual/html_node/index.html)
-             [`pdf`](https://www.gnu.org/software/bash/manual/bash.pdf)  
+                [`man`](http://man7.org/linux/man-pages/man1/bash.1.html)
+               [`html`](https://www.gnu.org/software/bash/manual/html_node/index.html)
+                [`pdf`](https://www.gnu.org/software/bash/manual/bash.pdf)  
 [Sed - Stream Editor](https://www.gnu.org/software/sed/)
-             [`man`](http://man7.org/linux/man-pages/man1/sed.1.html)
-            [`html`](https://www.gnu.org/software/sed/manual/sed.html)
-             [`pdf`](https://www.gnu.org/software/sed/manual/sed.pdf)  
+              [`man`](http://man7.org/linux/man-pages/man1/sed.1.html)
+             [`html`](https://www.gnu.org/software/sed/manual/sed.html)
+              [`pdf`](https://www.gnu.org/software/sed/manual/sed.pdf)  
 [Awk - Text Processor](https://www.gnu.org/software/gawk/manual/)
-              [`man`](http://man7.org/linux/man-pages/man1/awk.1p.html)
-             [`html`](https://www.gnu.org/software/gawk/manual/gawk.html)
-              [`pdf`](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
+               [`man`](http://man7.org/linux/man-pages/man1/awk.1p.html)
+              [`html`](https://www.gnu.org/software/gawk/manual/gawk.html)
+               [`pdf`](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
 [Sed & Awk](https://docstore.mik.ua/orelly/unix3/sedawk/index.htm)  
+[Python](https://docs.python.org/3)  
 [Lua 5.3 Reference Manual](https://www.lua.org/manual/5.3/)  
+[Moonscript](http://moonscript.org)
+     [`man`](http://moonscript.org/reference)  
+
+
 
 ### Virtualization
 
