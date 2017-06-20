@@ -13,6 +13,7 @@ sidebar:
 
 ## Collections
 
+[O'Reilly Free Programming Books](http://www.oreilly.com/programming/free/)  
 [Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
 [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
 [IT E-Books Download Directory](http://it-ebooks.directory/)  
