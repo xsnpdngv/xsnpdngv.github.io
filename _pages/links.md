@@ -13,12 +13,12 @@ sidebar:
 
 ## Collections
 
-[O'Reilly Free Programming Books](http://www.oreilly.com/programming/free/)
- [`direct-links`](https://redd.it/556kxj)  
 [Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
 [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
-[IT E-Books Download Directory](http://it-ebooks.directory/)  
+[O'Reilly Free Programming Books](http://www.oreilly.com/programming/free/)
+ [`direct-links`](https://redd.it/556kxj)  
 [O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
+[IT E-Books Download Directory](http://it-ebooks.directory/)  
 
 ## C/C++
 
