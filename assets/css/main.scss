@@ -4,14 +4,15 @@
 
 @charset "utf-8";
 
-body { font-size: 16px;
+body {
        font-weight: 400; }
 
 $primary-color : #222222;
 $text-color    : #222222;
 $link-color    : #3b5998;
 $border-radius : 5px;
-$sans-serif : "Open Sans", sans-serif;
+//$sans-serif : "Open Sans", sans-serif;
+$sans-serif : "Raleway", serif;
 $serif      : "Raleway", serif;
 /* $caption-font-family : "Raleway", sans-serif; */
 

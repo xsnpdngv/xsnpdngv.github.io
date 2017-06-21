@@ -16,6 +16,14 @@ Software Engineer · Mobile Services Expert · Photographer
 <a href="http://github.com/xsnpdngv"><i class="fa fa-github-square"></i> xsnpdngv</a>&nbsp;&nbsp;&nbsp;
 <a href="http://linkedin.com/in/t-dezso"><i class="fa fa-linkedin-square"></i> t-dezso</a>
 
+## Professional Interest
+
+- Mobile Networks
+- Object Oriented Technologies
+- System Programming
+- Formal Languages
+- Graph Theory
+
 
 ## Education
 
@@ -104,13 +112,18 @@ Studio of Young Photographers (FFS)
 - József Pécsi Fine Art Photography Grant, 2007
 - 1st Prize, Month of Visual Arts, 2007
 
-## Professional Interest
+## Catalogues
 
-- Mobile Networks
-- Object Oriented Technologies
-- System Programming
-- Formal Languages
-- Graph Theory
+- Pixels and Pictures, Photographic Art and Beyond, National Salon, 2016
+- Progresszív Útkeresések / Progressive Pathfindings - Studio of Young Photographers 1977-2012
+- Refresh / Still Life - Living Space - Map - Image Defect, Studio of Young Photographers, 2009
+- Regardez-moi – I'm back!, 2009
+- Az Év Fotói 2008, Viva Média Holding, 2009
+- 10+1, Fotografus.hu Foundation for Hungarian Photography, 2009
+- Az Év Fotói 2007, Viva Média Holding, 2008
+- Photobiennal Dunaújváros, Fotografus.hu Foundation for Hungarian Photography, 2007
+- Az Év Fotói 2006, Viva Média Holding, 2007
+- Az Év Fotói 2005, Viva Média Holding, 2006
 
 
 **ASDF:** On a QWERTY keyboard, ASDF are the four home keys to the left hand,
