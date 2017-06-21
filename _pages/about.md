@@ -3,8 +3,6 @@ layout: single
 permalink: /about/
 share: false
 author_profile: false
-classes:
-  - cv
 ---
 
 ![image-right](/assets/photos/dtt.png){: .align-right}
