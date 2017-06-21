@@ -7,8 +7,7 @@ permalink: /about/
 
 # Tamás T. DEZSŐ
 
-Software Engineer · Mobile Services Expert  
-Autonomous Photographer
+Software Engineer · Mobile Services Expert · Autonomous Photographer
 
 ## Education
 
@@ -39,12 +38,14 @@ Lorem ipsum dolor sit amet, id apeirian delicata scripserit eam, ad labitur
 singulis nec. Labores pericula evertitur ne ius. Eam illud mucius possim ex,
 cum ut dicta verear vituperata. Ex sea integre blandit, docendi nostrum usu at.
 Ea quando corrumpit his. Nec erat pertinax ea, veniam persecuti eos at, eu mei
-graeco saperet. {: .text-justify}
+graeco saperet.
+{: .text-justify}
 
 Te cibo epicurei sea. Has viderer vulputate forensibus an, atqui praesent
 salutandi te eos. Ea omnes putant interesset duo. In assum reprimique mei, duo
 ne novum ornatus pertinax. Eum noster everti iudicabit cu, integre aliquid no
-sit, nec ea utroque nominavi evertitur. {: .text-justify}
+sit, nec ea utroque nominavi evertitur.
+{: .text-justify}
 
 **ASDF:** On a QWERTY keyboard, the fingers of the left hand cover the letters ASDF
 while the right hand covers JKL;. This position is used for speed typing and
