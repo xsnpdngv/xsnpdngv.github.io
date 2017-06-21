@@ -15,10 +15,10 @@ sidebar:
 
 [Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
 [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
-[O'Reilly Free Programming Books](http://www.oreilly.com/programming/free/)
- [`direct-links`](https://redd.it/556kxj)  
-[O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
 [IT E-Books Download Directory](http://it-ebooks.directory/)  
+[O'Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
+ [`dl`](https://redd.it/556kxj)  
+[O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
 
 ## C/C++
 
@@ -149,7 +149,7 @@ sidebar:
 [Pandoc - Universal Document Converter](http://pandoc.org)  
 [Reveal.js - HTML Presentation Framework](http://lab.hakim.se/reveal-js/#/)  
 [Graphviz - Graph Visualization Software](http://www.graphviz.org/)  
-[Railroad Diagram Generator](http://www.bottlecaps.de/rr/ui)  
+[RDG - Railroad Diagram Generator](http://www.bottlecaps.de/rr/ui)  
 [yEd - Graph Editor](https://www.yworks.com/products/yed)  
 [D3.js - Data Driven Documents](https://d3js.org/)  
 
