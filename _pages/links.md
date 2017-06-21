@@ -2,11 +2,9 @@
 permalink: /links/
 
 title: "Links"
-
 excerpt: "Bookmarks"
-
 sidebar:
-  nav: "sidebar-tech"
+  nav: "sidebar-dev"
 ---
 
 {% include toc %}

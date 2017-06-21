@@ -2,8 +2,8 @@
 main:
   - title: "Photography"
     url: /photo/
-  - title: "Technology"
-    url: /tech/
+  - title: "Development"
+    url: /dev/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -13,12 +13,12 @@ main:
   #
 
 # side bar
-sidebar-tech:
-  - title: Technology
-    url: /tech/
+sidebar-dev:
+  - title: Development
+    url: /dev/
     children:
       - title: "Posts"
-        url: /tech/
+        url: /dev/
       - title: "Links"
         url: /links/
       - title: "Quotes"

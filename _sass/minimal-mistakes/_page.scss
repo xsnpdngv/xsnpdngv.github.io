@@ -6,9 +6,9 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
-  text-align: justify;
+  padding-left: 2em;
+  padding-right: 2em;
+  /* text-align: justify; */
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.35s;
@@ -44,6 +44,7 @@
   & + .page__meta {
     margin-top: -0.5em;
   }
+  font-weight: 700;
 }
 
 .page__lead {
@@ -139,8 +140,8 @@
     }
 
     .wrapper {
-      padding-left: 1em;
-      padding-right: 1em;
+      padding-left: 2em;
+      padding-right: 2em;
 
       @include breakpoint($x-large) {
         max-width: $x-large;

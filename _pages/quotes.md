@@ -3,14 +3,14 @@ permalink: /quotes/
 title: "Programming Wisdom Quotes"
 excerpt: "Selection of wisdom quotes on programming"
 sidebar:
-  nav: "sidebar-tech"
+  nav: "sidebar-dev"
 classes:
   - quotes
 ---
 
 <br/>
 
-_"A program is like a poem: you cannot write a program without writing it"_
+_"A program is like a poem: you cannot write a program without writing it."_
 -- Edsger W. Dijkstra
 
 ## Productivity

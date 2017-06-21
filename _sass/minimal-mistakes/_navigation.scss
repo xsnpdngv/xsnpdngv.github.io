@@ -166,6 +166,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
+  padding-left: 2em;
   border-top: 1px solid $border-color;
 }
 
@@ -195,6 +196,8 @@
 
     &.site-title {
       margin-left: 0;
+      font-weight: 400;
+      padding-left: 1em;
     }
   }
 
