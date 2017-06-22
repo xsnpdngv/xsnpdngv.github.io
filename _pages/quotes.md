@@ -4,8 +4,6 @@ title: "Programming Wisdom Quotes"
 excerpt: "Selection of wisdom quotes on programming"
 sidebar:
   nav: "sidebar-dev"
-classes:
-  - quotes
 ---
 
 <br/>
