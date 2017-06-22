@@ -5,6 +5,11 @@ share: false
 author_profile: false
 ---
 
+# A S D F
+
+On a QWERTY keyboard, A, S, D and F are the four home keys to the left hand, and so are J, K, L and semicolon to the right. This position is used for speed typing and enables one to easily reach any other key. Fingers always return to these keys when not being used. ASDF is home.<BR><BR>
+
+
 ![image-right](/assets/photos/dtt.png){: .align-right}
 
 # Tamás T. DEZSŐ
@@ -124,8 +129,3 @@ Studio of Young Photographers (FFS)
 - Az Év Fotói 2005, Viva Média Holding, 2006
 
 
-**ASDF:** On a QWERTY keyboard, ASDF are the four home keys to the left hand,
-and so JKL; to the right. These positions are used for speed typing and enable
-one to easily reach any other key. Fingers always return to these keys when not
-being used. ASDF is home.
-{: .notice--primary}
