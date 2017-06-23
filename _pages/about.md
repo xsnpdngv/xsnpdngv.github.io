@@ -49,7 +49,7 @@ Intelligent Network Services Expert
 
 - Core member of the Intelligent Network (IN) Platform Development Group
 - Responsible for design and creation of call-control and packet switched mobile services
-- Main tasks included business requirement analysis, specification, design discussion, implementation, testing, peer code review and vendor cooperation
+- Main tasks included business requirement analysis, technology research, system planning, specification, design discussion, implementation, testing, peer code review and vendor cooperation
 - Participated in building and improving Telenor's in-house developed IN Platform to provide value-added services like prepaid calling, virtual private networking, premium rate services and real-time GPRS charging
 - Designed and developed a graph based Online Rating Engine to determine charging information for voice calls and data traffic
 - Specificated and implemented a concurrent Billing Flow Controller framework along with component logics for subscriber and service guiding, rating and balance handling
