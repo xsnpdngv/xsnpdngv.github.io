@@ -13,10 +13,11 @@ sidebar:
 
 [Linux Howtos](https://linux.die.net/HOWTO/HOWTO-INDEX/categories.html)  
 [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
-[IT E-Books Download Directory](http://it-ebooks.directory/)  
+[DZone Refcardz](https://dzone.com/refcardz)  
 [O'Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
  [`dl`](https://redd.it/556kxj)  
 [O'Reilly's CD Bookshelves](https://docstore.mik.ua/orelly/bookshelfs.html)  
+[IT E-Books Download Directory](http://it-ebooks.directory/)  
 
 ## C/C++
 
@@ -95,6 +96,16 @@ sidebar:
 [Callgrind - Call Graph Generator](http://valgrind.org/docs/manual/cl-manual.html)  
 [KCachegrind - Call Graph Viewer](http://kcachegrind.sourceforge.net/html/Home.html)  
 
+
+## OOP
+
+[Design Patterns Refcardz](https://dzone.com/refcardz/design-patterns)
+                   [`pdf`](https://dzone.com/storage/assets/4595-rc008-designpatterns_online.pdf)  
+[Design Patterns Introduction](http://www.bogotobogo.com/DesignPatterns/introduction.php)  
+[Modeling Languages](http://modeling-languages.com/)  
+[Microsoft UML Reference](https://msdn.microsoft.com/en-us/library/dd409437.aspx)  
+[UML-Diagrams.org](http://www.uml-diagrams.org/)  
+[Practical UML Hands-On](http://edn.embarcadero.com/article/31863)  
 
 ## Script
 
