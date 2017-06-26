@@ -58,7 +58,7 @@ Intelligent Network Services Expert
 - Designed and programmed a Preprocessing Macro Compiler library for efficient conditional text message generation
 - Developed a SOAP Gateway for submitting automatic SMS notifications on balance and service activation related events
 - Implemented a subset of SNMP to integrate proprietary systems into Network Management
-- Lead in test automation methodology and introduced a versioning system friendly technical documentation standard and toolset
+- Led in test automation methodology and introduced a versioning system friendly technical documentation standard and toolset
 
 ## Memberships
 
