@@ -99,6 +99,7 @@ sidebar:
 
 ## OOP
 
+[Object Oriented Design Principles](http://condor.depaul.edu/dmumaugh/OOT/Design-Principles/)  
 [Design Patterns Refcardz](https://dzone.com/refcardz/design-patterns)
                    [`pdf`](https://dzone.com/storage/assets/4595-rc008-designpatterns_online.pdf)  
 [Design Patterns Introduction](http://www.bogotobogo.com/DesignPatterns/introduction.php)  
