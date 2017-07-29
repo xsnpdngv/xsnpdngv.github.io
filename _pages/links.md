@@ -30,6 +30,8 @@ sidebar:
 [CPlusPlus.com](http://www.cplusplus.com/)  
 [SGI Standard Template Library Documentation](https://www.sgi.com/tech/stl/stl_index_cat.html)  
 [BogoToBogo C++ Home](http://www.bogotobogo.com/cplusplus/cpptut.php)  
+[BME Aut C Példatár](http://www.aut.bme.hu/CPeldatar/)  
+[BME Aut C++ Példatár](http://www.aut.bme.hu/CppPeldatar/)  
 
 ### <i class="fa fa-angle-double-right"></i> Guideline
 
