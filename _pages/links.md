@@ -30,9 +30,12 @@ sidebar:
 [CPlusPlus.com](http://www.cplusplus.com/)  
 [SGI Standard Template Library Documentation](https://www.sgi.com/tech/stl/stl_index_cat.html)  
 [BogoToBogo C++ Home](http://www.bogotobogo.com/cplusplus/cpptut.php)  
+
+### <i class="fa fa-angle-double-right"></i> Quiz
+
+[C++ Quiz](http://cppquiz.org)  
 [BME Aut C Példatár](http://www.aut.bme.hu/CPeldatar/)  
 [BME Aut C++ Példatár](http://www.aut.bme.hu/CppPeldatar/)  
-[C++ Quiz](http://cppquiz.org)  
 
 ### <i class="fa fa-angle-double-right"></i> Guideline
 
@@ -42,6 +45,7 @@ sidebar:
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)  
 [ISOCPP C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines.git)  
 [Microsoft Guideline Support Library](https://github.com/Microsoft/GSL.git)  
+[C++ Optimization Strategies and Techniques](http://www.tantalon.com/pete/cppopt/main.htm)  
 
 ### <i class="fa fa-angle-double-right"></i> Library
 
