@@ -32,6 +32,7 @@ sidebar:
 [BogoToBogo C++ Home](http://www.bogotobogo.com/cplusplus/cpptut.php)  
 [BME Aut C Példatár](http://www.aut.bme.hu/CPeldatar/)  
 [BME Aut C++ Példatár](http://www.aut.bme.hu/CppPeldatar/)  
+[C++ Quiz](http://cppquiz.org)  
 
 ### <i class="fa fa-angle-double-right"></i> Guideline
 
