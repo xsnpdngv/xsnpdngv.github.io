@@ -34,6 +34,8 @@ sidebar:
 ### <i class="fa fa-angle-double-right"></i> Quiz
 
 [C++ Quiz](http://cppquiz.org)  
+[C Questions & Answers](http://www.indiabix.com/c-programming/questions-and-answers/)  
+[C++ Questions & Answers](https://www.indiabix.com/cpp-programming/)  
 [BME Aut C Példatár](http://www.aut.bme.hu/CPeldatar/)  
 [BME Aut C++ Példatár](http://www.aut.bme.hu/CppPeldatar/)  
 
