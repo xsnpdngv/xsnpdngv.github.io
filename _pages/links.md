@@ -65,6 +65,7 @@ sidebar:
 
 ### <i class="fa fa-angle-double-right"></i> Tools
 
+[Git Book](https://git-scm.com/book/en/v2)  
 [GNU Compiler Collection](https://gcc.gnu.org/onlinedocs/)
                    [`man`](http://man7.org/linux/man-pages/man1/gcc.1.html)  
 [Make](https://www.gnu.org/software/make/manual/)
