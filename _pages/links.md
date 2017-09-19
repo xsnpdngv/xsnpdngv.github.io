@@ -181,4 +181,5 @@ sidebar:
 [C++ Embedded Systems Programming](http://www.bogotobogo.com/cplusplus/embeddedSystemsProgramming.php)  
 [Circuit Basics - Raspberry Pi](http://www.circuitbasics.com/raspberry-pi/)  
 [Build Yourself a Linux](https://github.com/MichielDerhaeg/build-linux)  
+[Linux Device Drivers](http://www.oreilly.com/openbook/linuxdrive3/book/index.html)  
 
