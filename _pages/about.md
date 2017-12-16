@@ -20,7 +20,7 @@ Software Engineer · Mobile Services Expert · Photographer
 
 ## Professional Interest
 
-- Mobile Networks
+- Microwave & Mobile Networks
 - Object Oriented Technologies
 - System Programming
 - Formal Languages
@@ -42,6 +42,10 @@ Autonomous Photography
 - Exam Project: Abandoned Objects in Their Original Surroundings
 
 ## Employment History
+
+2017 -  
+Ericsson Hungary  
+Microwave Network Node Developer
 
 2001 - 2017  
 Telenor Hungary  
