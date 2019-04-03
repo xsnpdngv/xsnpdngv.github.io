@@ -50,6 +50,9 @@ _"The mark of a mature programmer is willingness to throw out code you spent
 
 ## Simplicity
 
+_"The first step of any project is to grossly underestimate its complexity and difficulty."_
+-- Nicoll Hunt
+
 _"What I cannot create, I do not understand."_
 -- Richard Feynman
 
