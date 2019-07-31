@@ -17,7 +17,7 @@ kávéval a Veszprémi Református Nagytemplom Gyülekezeti termében.
 
 A szertartás 15:30-kor kezdődik a templomban.
 
-A házzasságkötés után még szeretnénk, ha velünk maradnátok egy-két közös
+A házasságkötés után még szeretnénk, ha velünk maradnátok egy-két közös
 csoportképhez, illetve egy ideig még a gyülekezeti terem is rendelkezésünkre
 áll...
 
