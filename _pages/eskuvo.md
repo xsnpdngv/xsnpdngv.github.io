@@ -12,10 +12,10 @@ author_profile: false
 Nagyon várjuk a közelgő esküvőnk napját, __szeptember 28__-át, és reméljük,
 Veletek is megoszthatjuk örömünket.
 
-14:00 órátol várunk Benneteket egy kis svédasztalos ebéddel, üdítőkkel,
+14:30 órátol várunk Benneteket egy kis svédasztalos ebéddel, üdítőkkel,
 kávéval a Veszprémi Református Nagytemplom Gyülekezeti termében.
 
-A szertartás 15:30-kor kezdődik a templomban.
+A szertartás 16:00-kor kezdődik a templomban.
 
 A házasságkötés után még szeretnénk, ha velünk maradnátok egy-két közös
 csoportképhez, illetve egy ideig még a gyülekezeti terem is rendelkezésünkre
