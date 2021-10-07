@@ -117,6 +117,7 @@ sidebar:
 [Microsoft UML Reference](https://msdn.microsoft.com/en-us/library/dd409437.aspx)  
 [UML-Diagrams.org](http://www.uml-diagrams.org/)  
 [Practical UML Hands-On](http://edn.embarcadero.com/article/31863)  
+[OOP in C](https://www.state-machine.com/doc/AN_OOP_in_C.pdf)  
 
 ## Script
 
@@ -125,6 +126,7 @@ sidebar:
                 [`man`](http://man7.org/linux/man-pages/man1/bash.1.html)
                [`html`](https://www.gnu.org/software/bash/manual/html_node/index.html)
                 [`pdf`](https://www.gnu.org/software/bash/manual/bash.pdf)  
+[Bash Cheat Sheet](https://www.pcwdld.com/bash-cheat-sheet)  
 [Sed - Stream Editor](https://www.gnu.org/software/sed/)
               [`man`](http://man7.org/linux/man-pages/man1/sed.1.html)
              [`html`](https://www.gnu.org/software/sed/manual/sed.html)
