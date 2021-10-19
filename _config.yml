@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Tamás T. Dezső"
   avatar           : "/assets/photos/dtt.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "secretly extroverted"
+  bio              :
   location         :
   email            : "dezso.t.tamas@gmail.com"
   uri              :
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/user/dezsottamas" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
