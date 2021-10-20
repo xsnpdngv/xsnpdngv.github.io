@@ -13,18 +13,16 @@ On a QWERTY keyboard, A, S, D and F are the four home keys to the left hand, and
 
 # Tamás T. DEZSŐ
 
-Software Engineer · Mobile Services Expert · Photographer  
+Software Engineer · IN Services Senior Expert · Photographer  
 <a href="mailto:dezso.t.tamas@gmail.com"><i class="fa fa-envelope-square"></i> dezso.t.tamas@gmail.com</a>&nbsp;&nbsp;&nbsp;
 <a href="http://github.com/xsnpdngv"><i class="fa fa-github-square"></i> xsnpdngv</a>&nbsp;&nbsp;&nbsp;
 <a href="http://linkedin.com/in/t-dezso"><i class="fa fa-linkedin-square"></i> t-dezso</a>
 
 ## Professional Interest
 
-- Microwave & Mobile Networks
+- Microwave & Mobile Telecommunications Networks
 - Object Oriented Technologies
 - System Programming
-- Formal Languages
-- Graph Theory
 
 
 ## Education
@@ -43,13 +41,17 @@ Autonomous Photography
 
 ## Employment History
 
-2017 -  
-Ericsson Hungary  
-Microwave Network Node Developer
+2021 -    
+Telenor Hungary  
+IN Services Senior Expert
+ 
+2017 - 2021  
+Ericsson Hungary, Ericsson Sweden  
+Senior Developer
 
 2001 - 2017  
 Telenor Hungary  
-Intelligent Network Services Expert
+IN Services Expert
 
 - Core member of the Intelligent Network (IN) Platform Development Group
 - Responsible for design and creation of call-control and packet switched mobile services
