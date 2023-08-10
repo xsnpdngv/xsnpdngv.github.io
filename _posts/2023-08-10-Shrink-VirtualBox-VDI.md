@@ -50,8 +50,8 @@ Reboot and run `zerofree -v /dev/sda1` now
 
 ## To "recover" the system:
 
-Re-mount read-write: `mount -o remount,rw /dev/sda1`
-Edit `/etc/fstab` again to restore the original content
+- Re-mount read-write: `mount -o remount,rw /dev/sda1`
+- Edit `/etc/fstab` again to restore the original content
 
 
 # Shutdown the Guest VM
