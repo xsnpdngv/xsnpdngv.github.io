@@ -54,7 +54,7 @@ Reboot and run `zerofree -v /dev/sda1` now
 - Edit `/etc/fstab` again to restore the original content
 
 
-# Shutdown the Guest VM
+# Shutdown the Guest OS (Linux)
 
 ```bash
 shutdown -h now
