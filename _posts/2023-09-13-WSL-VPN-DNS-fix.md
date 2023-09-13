@@ -11,8 +11,9 @@ tags:
 
 {% include toc %}
 
+Re-enble auto-generation of resolv.conf (if disabled)
+-----------------------------------------------------
 
-1. Re-enble auto generation of resolv.conf (if disabled)
 by commented the disable with #
 
 ```bash
@@ -24,7 +25,8 @@ sudo vi /etc/wsl.conf
 #generateResolvConf = false
 ```
 
-2. Create the script
+Create the script
+-----------------
 
 sudo vi vpn-dns.sh
 
@@ -42,19 +44,22 @@ Get-NetAdapter | ?{-not ($_.InterfaceDescription -like "Cisco AnyConnect*") } | 
         tr -d '\r' | tee /etc/resolv.conf
 ```
 
-3. Make it executable/run as sudo
+Make it executable/run as sudo
+------------------------------
 
 ```bash
 sudo chmod +x vpn-dns.sh
 ```
 
-4. Run as superuser
+Run as superuser
+----------------
 
 ```bash
 sudo vpn-dns.sh
 ```
 
-5. Set interface metric in PowerShell
+Set interface metric in admin PowerShell
+----------------------------------------
 
 ```PowerShell
 Get-NetAdapter | Where-Object {$_.InterfaceDescription -Match "Cisco AnyConnect"} | Set-NetIPInterface -InterfaceMetric 6000
