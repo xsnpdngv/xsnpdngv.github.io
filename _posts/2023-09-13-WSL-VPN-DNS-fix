@@ -1,3 +1,17 @@
+---
+title: Fix WSL DNS issue on VPN
+excerpt: Workaround to overcome the DNS issue when using VPN
+categories:
+  - development
+tags:
+  - WSL
+  - Linux
+  - DNS
+---
+
+{% include toc %}
+
+
 1. Re-enble auto generation of resolv.conf (if disabled)
 by commented the disable with #
 
