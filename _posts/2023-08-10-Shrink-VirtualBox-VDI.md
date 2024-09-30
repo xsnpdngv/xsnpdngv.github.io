@@ -11,6 +11,14 @@ tags:
 
 {% include toc %}
 
+
+# Remove unneeded stuff
+
+Frist it is worth checking what is eating up a lot of disk space, and removing the unnecessary.
+
+(https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space)[https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space]
+
+
 # Nullify free space
 
 In the Linux Guest system:
