@@ -13,7 +13,7 @@ On a QWERTY keyboard, A, S, D and F are the four home keys to the left hand, and
 
 # Tamás T. DEZSŐ
 
-Software Engineer · IN Services Senior Expert · Photographer  
+Senior Software Engineer · Photographer  
 <a href="mailto:dezso.t.tamas@gmail.com"><i class="fa fa-envelope-square"></i> dezso.t.tamas@gmail.com</a>&nbsp;&nbsp;&nbsp;
 <a href="http://github.com/xsnpdngv"><i class="fa fa-github-square"></i> xsnpdngv</a>&nbsp;&nbsp;&nbsp;
 <a href="http://linkedin.com/in/t-dezso"><i class="fa fa-linkedin-square"></i> t-dezso</a>
@@ -42,8 +42,8 @@ Autonomous Photography
 ## Employment History
 
 2021 -    
-Telenor Hungary  
-IN Services Senior Expert
+Yettel (Telenor) Hungary  
+Senior Software Engineer
  
 2017 - 2021  
 Ericsson Hungary, Ericsson Sweden  
