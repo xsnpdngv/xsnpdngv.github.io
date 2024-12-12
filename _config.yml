@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : "Tamás T. DEZSŐ"
 description              : "Personal website"
 url                      : "https://xsnpdngv.github.io" # the base hostname & protocol for your site e.g. "https://xsnpdngv.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xsnpdngv/xsnpdngv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
