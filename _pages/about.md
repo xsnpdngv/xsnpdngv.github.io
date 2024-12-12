@@ -44,14 +44,16 @@ Autonomous Photography
 2021 -    
 Yettel (Telenor) Hungary  
 Senior Software Engineer
- 
+
+- Leading the design and development of an IMS Application Server
+
 2017 - 2021  
 Ericsson Hungary, Ericsson Sweden  
 Senior Developer
 
 - MINI-LINK 6600 Split mount shorthaul modular packet radio :: Processor board protection
 - MINI-LINK 6352 All outdoor shorthaul E-band packet radio :: Equipment protection
- 
+
 2001 - 2017  
 Telenor Hungary  
 IN Services Expert
