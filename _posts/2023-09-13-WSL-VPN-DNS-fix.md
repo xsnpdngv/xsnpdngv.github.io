@@ -11,10 +11,10 @@ tags:
 
 {% include toc %}
 
-Re-enble auto-generation of resolv.conf (if disabled)
------------------------------------------------------
+Re-enable auto-generation of resolv.conf (if disabled)
+------------------------------------------------------
 
-by commented the disable with #
+by commenting out the disabler line with # in wsl config
 
 ```bash
 sudo vi /etc/wsl.conf
@@ -44,8 +44,8 @@ Get-NetAdapter | ?{-not ($_.InterfaceDescription -like "Cisco AnyConnect*") } | 
         tr -d '\r' | sudo tee /etc/resolv.conf
 ```
 
-Make it executable/run as sudo
-------------------------------
+Make it executable
+------------------
 
 ```bash
 sudo chmod +x vpn-dns.sh
@@ -65,7 +65,7 @@ Set interface metric in admin PowerShell
 Get-NetAdapter | Where-Object {$_.InterfaceDescription -Match "Cisco AnyConnect"} | Set-NetIPInterface -InterfaceMetric 6000
 ```
 
-It can be restored:
+It can also be restored:
 
 ```PowerShell
 Get-NetAdapter | Where-Object {$_.InterfaceDescription -Match "Cisco AnyConnect"} | Set-NetIPInterface -InterfaceMetric 1
