@@ -11,12 +11,14 @@ On a QWERTY keyboard, A, S, D and F are the four home keys to the left hand, and
 
 ![image-right](/assets/photos/dtt.png){: .align-right}
 
+
 # Tamás T. DEZSŐ
 
 Senior Software Engineer · Photographer  
 <a href="mailto:dezso.t.tamas@gmail.com"><i class="fa fa-envelope-square"></i> dezso.t.tamas@gmail.com</a>&nbsp;&nbsp;&nbsp;
 <a href="http://github.com/xsnpdngv"><i class="fa fa-github-square"></i> xsnpdngv</a>&nbsp;&nbsp;&nbsp;
 <a href="http://linkedin.com/in/t-dezso"><i class="fa fa-linkedin-square"></i> t-dezso</a>
+
 
 ## Professional Interest
 
@@ -39,6 +41,7 @@ Fotografus.hu Foundational Photo School
 Autonomous Photography  
 - Exam Project: Abandoned Objects in Their Original Surroundings
 
+
 ## Employment History
 
 2021 -    
@@ -48,11 +51,12 @@ Senior Software Engineer
 - Leading the design and development of an IMS Application Server
 
 2017 - 2021  
-Ericsson Hungary, Ericsson Sweden  
+Ericsson Hungary (BUD), Ericsson Sweden (GBG)  
 Senior Developer
 
-- MINI-LINK 6600 Split mount shorthaul modular packet radio :: Processor board protection
-- MINI-LINK 6352 All outdoor shorthaul E-band packet radio :: Equipment protection
+- Key Contributor Grant by Ericsson (2018, 2021) for exceptional contributions to the following projects:
+  - MINI-LINK 6600 Split mount shorthaul modular packet radio - Processor board protection
+  - MINI-LINK 6352 All outdoor shorthaul E-band packet radio - Equipment protection
 
 2001 - 2017  
 Telenor Hungary  
@@ -64,12 +68,11 @@ IN Services Expert
 - Participated in building and improving Telenor's in-house developed IN Platform to provide value-added services like prepaid calling, virtual private networking, premium rate services and real-time GPRS charging
 - Designed and developed a graph based Online Rating Engine to determine charging information for voice calls and data traffic
 - Specificated and implemented a concurrent Billing Flow Controller framework along with component logics for subscriber and service guiding, rating and balance handling
-- Accomplished the IN Provisioning thread within the BSS Swap project including database re-design, interface specification, implementation, test automation and integration
 - Supported the Revenue Assurance Program by technical specifications and case investigations regarding prepaid voice calls and GPRS data traffic
 - Designed and programmed a Preprocessing Macro Compiler library for efficient conditional text message generation
 - Developed a SOAP Gateway for submitting automatic SMS notifications on balance and service activation related events
 - Implemented a subset of SNMP to integrate proprietary systems into Network Management
-- Led in test automation methodology and introduced a versioning system friendly technical documentation standard and toolset
+
 
 ## Memberships
 
@@ -81,6 +84,7 @@ Association of Hungarian Photographers
 
 2008-2012  
 Studio of Young Photographers (FFS)
+
 
 ## Exhibitions
 
@@ -117,6 +121,7 @@ Studio of Young Photographers (FFS)
 - Month of Visual Arts, Budapest Cultural Center, 2005
 - Dialogue, Raiffeisen Photo Exhibition, Palace of Arts Budapest, 2005
 
+
 ## Awards
 
 - André Kertész Grand Prize, Hungarian Press Photo Contest, 2009
@@ -124,6 +129,7 @@ Studio of Young Photographers (FFS)
 - 1st Prize, Pannon Work Life Balance Photo Contest, 2008
 - József Pécsi Fine Art Photography Grant, 2007
 - 1st Prize, Month of Visual Arts, 2007
+
 
 ## Catalogues
 
