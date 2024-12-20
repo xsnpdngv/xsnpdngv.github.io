@@ -9,7 +9,7 @@ author_profile: false
 On a QWERTY keyboard, A, S, D and F are the four home keys to the left hand, and so are J, K, L and semicolon to the right. This position is used for speed typing and enables one to easily reach any other key. Fingers always return to these keys when not being used. ASDF is home.<BR><BR>
 
 
-![image-right](/assets/photos/dttg.png){: .align-right}
+![image-right](/assets/photos/dttg.jpg){: .align-right}
 
 
 # Tamás T. DEZSŐ
